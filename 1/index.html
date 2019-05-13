@@ -1,0 +1,54 @@
+<html>	
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="content-language" content="ru" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+		<title>Блог</title>
+	</head>
+	<body>
+<header>
+	<div class="cont">
+		<div class="tok">	<video class="pop2" autoplay loop src="сайтик.webm"  ></video>
+	</div>
+
+
+		<!--STYLES-->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/slick.css">
+		<link rel="stylesheet" type="text/css" href="css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="css/media.css">
+		<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+
+		<!--SCRIPTS-->
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<script src="js/custom.js"></script>
+		<script src="js/slick.js"></script>
+		<script src="js/slick.min.js"></script>
+
+		  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.your-class').slick({
+        setting-name: setting-value
+      });
+    });
+  </script>
+  <script>
+  	$(document).ready(function(){
+  		var touch = $('#touch-menu');
+  		var menu = $('ul.menu');
+
+  		$(touch).on('click',function(e){
+  			e.preventDefault();
+  			menu.slideToggle();
+  			  	});
+  		$(window).resize(function() {
+  			var wid = $(window).width();
+  			if (wid > 760 && menu.is(':hidden')) {
+  				menu.removeAttr('style');
+  			}
+  		});
+  	});
+  </script>
+
+	</body>
+</html>
