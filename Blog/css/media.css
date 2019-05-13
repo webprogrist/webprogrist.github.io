@@ -1,0 +1,39 @@
+@media ( max-width: 1600px) {
+img.fon0{
+    display: block;
+    position: absolute;
+    margin-top: 4267px;
+    margin-left: 10px;
+}
+img.square0{
+    display: block;
+    position: absolute;
+    margin-top: 2133px;
+    margin-left: -289px;
+}
+img.square5{
+    display: none;
+    position: absolute;
+    margin-top: 2133px;
+    margin-left: -289px;
+}
+img.fon5{
+    display: none;
+    position: absolute;
+    margin-top: 4267px;
+    margin-left: 10px;
+}
+video.pop2{
+    width: 100%;
+}
+ul.menu{
+    width: 1920px;
+}
+
+}
+
+
+
+
+
+
