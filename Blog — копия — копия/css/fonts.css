@@ -1,0 +1,18 @@
+@font-face {
+	font-family: "Eastone";
+	src:url("../fonts/Eastone.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Crossten";
+	src:url("../fonts/Crossten-SemiBold.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Intro_Regular";
+	src:url("../fonts/ofont.ru_Intro.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
