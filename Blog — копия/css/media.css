@@ -38,7 +38,7 @@ ul.menu {
     width: 378%;
     font-size: 26px;
     position: absolute;
-    margin-left: 34%;
+    margin-left: 21%;
     margin-top: 78%;
     display: inline-block;
 }
@@ -67,8 +67,8 @@ video.creativ5 {
 }
 a.menu {
     font-size: 73px;
-    padding-right: 15.5px;
-    padding-left: 15.5px;
+    padding-right: 25.5px;
+    padding-left: 25.5px;
     list-style: none;
     text-decoration: none;
     display: inline-block;
