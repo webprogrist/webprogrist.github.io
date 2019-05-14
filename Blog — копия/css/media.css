@@ -11,6 +11,53 @@ video.pop {
 
 
 
-@media ( max-width: 1477px) {
+@media ( max-width: 375px) {
+	img.slide1 {
+    opacity: 0.5;
+    position: absolute;
+    margin-left: 77%;
+    margin-top: 270%;
+    width: 263%;
+}
+img.slide1_2_ {
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 452px;
+    display: none;
+   }
+    ul.menu{
+    width: 378%;
+    font-size: 26px;
+    position: absolute;
+    margin-left: 0%;
+    margin-top: 41%;
+    display: inline-block;
+}
+video.creativ5 {
+	   height: 177%;
+    margin-top: 239%;
+    opacity: 0.3;
+    margin-left: -62%;
+    position: absolute;
+    -webkit-transform: rotate(270deg);
+    //: ;
+    Chrome, Safari -moz-transform: rotate(270deg);
+    //: ;
+    Firefox -o-transform: rotate(270deg);
+    //: ;
+    Opera -ms-transform: rotate(270deg);
+    //: ;
+    IE transform: rotate(270deg);
+    //браузеры без префексов: ;
+}
+a.menu {
+    font-size: 62px;
+    padding-left: 102px;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-family: "Crossten";
+}
 
 }
