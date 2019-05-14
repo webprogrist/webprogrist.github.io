@@ -13,12 +13,7 @@ video.pop{
   min-width: 100%;
   min-height: 100%;
   }
-  video.pop2{
-  position: absolute;
-  display: none;
-  min-width: 100%;
-  min-height: 100%;
-  }
+
   video.creativ5{
   	opacity: 0.3;
   	margin-left: 499px;
