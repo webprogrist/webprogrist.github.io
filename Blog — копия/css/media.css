@@ -34,34 +34,40 @@ img.slide1_2_ {
     margin-top: 452px;
     display: none;
    }
-    ul.menu{
+ul.menu {
     width: 378%;
     font-size: 26px;
     position: absolute;
-    margin-left: 0%;
+    margin-left: -9%;
     margin-top: 41%;
     display: inline-block;
 }
 video.creativ5 {
-	   height: 177%;
-    margin-top: 239%;
+    /* margin-bottom: 0; */
+    height: 51%;
+    margin-top: 48%;
     opacity: 0.3;
-    margin-left: -19%;
+    margin-left: 0%;
     position: absolute;
     -webkit-transform: rotate(270deg);
     //: ;
-    Chrome, Safari -moz-transform: rotate(270deg);
+    Chrome,: ;
+    Safari -moz-transform: rotate(270deg);
     //: ;
-    Firefox -o-transform: rotate(270deg);
+    Firefox: ;
+    -o-transform: rotate(270deg);
     //: ;
-    Opera -ms-transform: rotate(270deg);
+    Opera: ;
+    -ms-transform: rotate(270deg);
     //: ;
-    IE transform: rotate(270deg);
+    IE: ;
+    transform: rotate(270deg);
     //браузеры без префексов: ;
 }
 a.menu {
-    font-size: 62px;
-    padding-left: 102px;
+    font-size: 18px;
+    padding-right: 11.5px;
+    padding-left: 11.5px;
     list-style: none;
     text-decoration: none;
     display: inline-block;
