@@ -4,8 +4,16 @@ video.pop {
     position: absolute;
     min-width: 100%;
     min-height: 100%;
+    display: none;
 }
+video.pop2{
+  position: absolute;
+  display: block;
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0 0 0 0;
 
+}
 }
 
 
