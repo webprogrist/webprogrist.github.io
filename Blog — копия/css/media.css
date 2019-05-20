@@ -39,15 +39,15 @@ ul.menu {
     font-size: 26px;
     position: absolute;
     margin-left: 21%;
-    margin-top: 78%;
+    margin-top: 45%;
     display: inline-block;
 }
 video.creativ5 {
     /* margin-bottom: 0; */
-    height: 222%;
-    margin-top: 178%;
+    height: 262%;
+    margin-top: 114%;
     opacity: 0.3;
-    margin-left: -75%;
+    margin-left: -129%;
     position: absolute;
     -webkit-transform: rotate(270deg);
     //: ;
