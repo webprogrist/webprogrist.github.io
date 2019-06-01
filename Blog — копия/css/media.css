@@ -35,19 +35,19 @@ img.slide1_2_ {
     display: none;
    }
 ul.menu {
-    width: 378%;
-    font-size: 26px;
+    width: 100%;
+    font-size: 0px;
     position: absolute;
-    margin-left: 21%;
-    margin-top: 45%;
+    margin-left: 0%;
+    margin-top: 11%;
     display: inline-block;
 }
 video.creativ5 {
     /* margin-bottom: 0; */
-    height: 262%;
-    margin-top: 114%;
+    height: 45%;
+    margin-top: 50%;
     opacity: 0.3;
-    margin-left: -129%;
+    margin-left: -9%;
     position: absolute;
     -webkit-transform: rotate(270deg);
     //: ;
@@ -66,9 +66,9 @@ video.creativ5 {
     //браузеры без префексов: ;
 }
 a.menu {
-    font-size: 73px;
-    padding-right: 25.5px;
-    padding-left: 25.5px;
+    font-size: 17px;
+    padding-right: 10.5px;
+    padding-left: 10.5px;
     list-style: none;
     text-decoration: none;
     display: inline-block;
