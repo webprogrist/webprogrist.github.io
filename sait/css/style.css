@@ -66,19 +66,49 @@ img.img_fon_1{
 }
 div.video_fon_1 {
     opacity: 0.5;
-    width: 53%;
+    width: 49%;
     position: absolute;
     margin: 11% 5% 5% 26%;
 }
 video.video-fon{
     width: 100%;
 }
+video.video-fon_mp4{
+    display: none;
+}
 div.container_fon_2{
     position: absolute;
-    margin-left: 78%;
+    margin-left: 74%;
     margin-top: 11%;
-
 }
 img.container_fon_2_img{
-    width: 22%;
+    width: 46%;
+}
+div.container_years{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 30%;
+}
+h1.years{
+    font-size: 100px;
+    font-family: "Eastone";
+    color: white;
+    transform: rotate(270deg);
+    letter-spacing: 5px;
+}
+div.container_bow{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 48%;
+}
+div.container_scroll{
+    margin-left: 52%;
+    margin-top: 48%;
+    position: absolute;
+}
+h1.scroll{
+    color: white;
+    font-size: 15px;
+    font-family: "Crossten";
+    letter-spacing: 3px;
 }
