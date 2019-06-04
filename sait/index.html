@@ -1,0 +1,81 @@
+<html>	
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="content-language" content="ru" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+		<title>Блог</title>
+	</head>
+	<body>
+<header>
+
+
+	<div class="container">
+		<video class="pop" autoplay loop src="сайтик.webm"  ></video>
+
+	</div>
+	<div class="container__logo">
+		<img src="img/logo.png" alt="" class="logo">
+	</div>
+	<div class="container_Menu">
+		<ul class="menu">
+			<a class="menu" href="#">
+				<li>About me</li>
+			</a>
+			<a  class="menu" href="https://vk.com/feed">
+				<li>Blog</li>
+			</a>
+			<a class="menu" href="#">
+				<li>Register</li>
+			</a>
+			<a class="menu" href="#">
+				<li>Contact</li>
+			</a>
+		</ul>
+	</div>
+	<div class="container_fon">
+		<img class="img_fon_1" src="img/1slide(2).png" alt="">
+	</div>
+	<div class="video_fon_1">
+		<video class="video-fon" autoplay loop src="comp5.webm"  ></video>
+	</div>
+	<div class="container_fon_2">
+		<img class="container_fon_2_img" src="img/1slide1.png" alt="">
+	</div>
+
+</header>
+
+		<!--STYLES-->
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="css/slick.css">
+				<link rel="stylesheet" type="text/css" href="css/media.css">
+		<link rel="stylesheet" type="text/css" href="css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+
+		<!--SCRIPTS-->
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<script src="js/custom.js"></script>
+		<script src="js/slick.js"></script>
+		<script src="js/slick.min.js"></script>
+
+		  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.your-class').slick({
+        setting-name: setting-value
+      });
+    });
+  </script>
+
+<script>
+	var elem = document.getElementById("pop");
+if (elem.requestFullscreen) {
+  elem.requestFullscreen();
+} else if (elem.mozRequestFullScreen) {
+  elem.mozRequestFullScreen();
+} else if (elem.webkitRequestFullscreen) {
+  elem.webkitRequestFullscreen();
+} else if (elem.msRequestFullscreen) { 
+  elem.msRequestFullscreen();
+}
+</script>
+	</body>
+</html>
