@@ -1,0 +1,180 @@
+body{
+	background-color: black;
+	height: 12683px;
+ margin: 0;
+	overflow-x: hidden;
+    overflow-y: auto;
+	
+}
+/*Specs*/
+h1 h2 h3 h4 h5 p {
+    color: white;
+}
+
+
+
+
+/*--------------slide-1-----------*/
+header{
+
+    margin: 0 auto;
+    height: 100vh;
+}
+.container_Menu{
+    position: absolute;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    height:50px;
+    text-align: center;
+    display: inline;
+    vertical-align:middle;
+}
+a.menu{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 51px;
+    padding-right: 51px;
+    font-family: "Crossten";
+    font-size: 23px;
+}
+.container{
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+}
+.container_mp4{
+    display: none;
+}
+video.pop{
+    width: 100%;
+}
+.logo{
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.container_fon{
+    position: absolute;
+    margin-left: 17%;
+    margin-top: 30%;
+    width: 96%;
+    max-width: 960px;
+}
+img.img_fon_1{
+    width: 18%; /* ширина картинки */
+    height: auto; /* высота картинки */
+}
+div.video_fon_1 {
+    opacity: 0.5;
+    width: 49%;
+    position: absolute;
+    margin: 11% 5% 5% 26%;
+}
+video.video-fon{
+    width: 100%;
+}
+video.video-fon_mp4{
+    display: none;
+}
+div.container_fon_2{
+    position: absolute;
+    margin-left: 74%;
+    margin-top: 11%;
+}
+img.container_fon_2_img{
+    width: 46%;
+}
+div.container_years{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 30%;
+}
+h1.years{
+    font-size: 100px;
+    font-family: "Eastone";
+    color: white;
+    transform: rotate(270deg);
+    letter-spacing: 5px;
+}
+div.container_bow{
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 48%;
+}
+div.container_scroll{
+    margin-left: 50%;
+    margin-top: 48%;
+    position: absolute;
+}
+h1.scroll{
+    color: white;
+    font-size: 15px;
+    font-family: "Crossten";
+    letter-spacing: 3px;
+}
+/*---------2 slide------------*/
+div.container_slide2_fon {
+    position: absolute;
+    margin: 0 auto;
+    height: 100vh;
+}
+img.container_slide2_fon_img{
+    width: 100%;
+}
+div.about_me{
+    position: absolute;
+    margin: 2% 0 0 40%;
+    font-size: 40px;
+}
+h1.about{
+    font-family: "Crossten";
+    color: white;
+    letter-spacing: 2px;
+}
+div.web_design{
+    position: absolute;
+    margin: 12% 0 0 41%;
+}
+h1.web_design{
+    color: white;
+    font-size: 27px;
+    font-family: "Intro_Regular";
+}
+div.philosophy{
+    position: absolute;
+    margin: 16% 0 0 36%;
+}
+h1.philosophy{
+    color: white;
+    font-family: "Intro_Regular";
+    font-size: 27px;
+}
+div.container_slide_fon2_img{
+    position: absolute;
+    margin: 14% 0 0 4%;
+    width: 109%;
+}
+img.slide_fon_2_img{
+    opacity: 0.2;
+    width: 30%;
+    height: auto;
+}
+div.video_fon_slide2{
+    position: absolute;
+    height: 76%;
+    margin: 19% 0 0 7%;
+}
+video.video_fon_2{
+    height: 100%;
+}
+div.container_right_img{
+    position: absolute;
+    margin: 0 0 0 48%;
+    width: 60%;
+}
+img.right_fon2{
+    width: 100%;
+}
