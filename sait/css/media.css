@@ -166,11 +166,8 @@
         font-family: "Crossten";
         letter-spacing: 3px;
     }
-    .container_mp4{
-        display: block;
-        position: absolute;
-        margin: 0 auto;
-        width: 100%;
+    .container_mp4 {
+        display: none;
     }
     .container{
         display: none;
@@ -227,11 +224,11 @@
     div.container_bow {
         position: absolute;
         margin-left: 49%;
-        margin-top: 131%;
+        margin-top: 144%;
     }
     div.container_scroll {
         margin-left: 57%;
-        margin-top: 131%;
+        margin-top: 144%;
         position: absolute;
     }
     h1.scroll {
