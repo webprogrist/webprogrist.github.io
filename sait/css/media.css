@@ -166,6 +166,18 @@
         font-family: "Crossten";
         letter-spacing: 3px;
     }
+    .container_mp4{
+        display: block;
+        position: absolute;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .container{
+        display: none;
+    }
+    video.pop_mp4{
+        width: 100%;
+    }
 }
 /*320 - 480 px*/
 @media ( max-width: 480px) {
@@ -189,5 +201,25 @@
     }
     video.video-fon{
         display: none;
+    }
+    a.menu {
+        color: white;
+        list-style: none;
+        text-decoration: none;
+        display: inline-block;
+        padding-left: 17px;
+        padding-right: 17px;
+        font-family: "Crossten";
+        font-size: 17px;
+    }
+    .container_Menu {
+        position: absolute;
+        left: 0;
+        top: 10%;
+        width: 100%;
+        height: 50px;
+        text-align: center;
+        display: inline;
+        vertical-align: middle;
     }
 }

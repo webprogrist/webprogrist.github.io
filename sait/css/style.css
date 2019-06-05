@@ -45,6 +45,9 @@ a.menu{
     margin: 0 auto;
     width: 100%;
 }
+.container_mp4{
+    display: none;
+}
 video.pop{
     width: 100%;
 }
