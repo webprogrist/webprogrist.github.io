@@ -115,3 +115,12 @@ h1.scroll{
     font-family: "Crossten";
     letter-spacing: 3px;
 }
+/*---------2 slide------------*/
+div.container_slide2_fon {
+    position: absolute;
+    margin: 0 auto;
+    height: 100vh;
+}
+img.container_slide2_fon_img{
+    width: 100%;
+}
