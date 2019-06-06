@@ -29,6 +29,67 @@
         margin-left: 3%;
         margin-top: 3%;
     }
+    div.about_me {
+        position: absolute;
+        margin: 2% 0 0 40%;
+        font-size: 34px;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 22px;
+        font-family: "Intro_Regular";
+    }
+    h1.philosophy {
+        opacity: 0.7;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 22px;
+    }
+    h1.study {
+        color: white;
+        font-size: 15px;
+        font-family: "Crossten";
+        opacity: 0.6;
+        line-height: 1.5;
+    }
+    button.button_2_slide {
+        margin: 45% 0 0 45%;
+        border: none;
+        position: absolute;
+        padding: 9px 34px 9px 34px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Eastone";
+    }
+    h1.Katya {
+        font-family: "Eastone";
+        color: white;
+        font-size: 24px;
+        opacity: 0.02;
+    }
+    button.button_2_slide {
+        margin: 45% 0 0 45%;
+        border: none;
+        position: absolute;
+        padding: 6px 27px 6px 27px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Eastone";
+        font-size: 12px;
+    }
 }
 /*961 - 1368 px*/
 @media ( max-width: 1368px) {
@@ -74,6 +135,71 @@
     }
     img.bow{
         width: 65%;
+    }
+    div.about_me {
+        position: absolute;
+        margin: 2% 0 0 40%;
+        font-size: 30px;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 19px;
+        font-family: "Intro_Regular";
+    }
+    h1.philosophy {
+        opacity: 0.7;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 19px;
+    }
+    h1.study {
+        color: white;
+        font-size: 12px;
+        font-family: "Crossten";
+        opacity: 0.6;
+        line-height: 1.5;
+    }
+    h1.Katya {
+        font-family: "Eastone";
+        color: white;
+        font-size: 19px;
+        opacity: 0.02;
+    }
+}
+@media ( max-width: 1081px){
+    h1.philosophy {
+        opacity: 0.7;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 14px;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 14px;
+        font-family: "Intro_Regular";
+    }
+    div.about_me {
+        position: absolute;
+        margin: 2% 0 0 40%;
+        font-size: 21px;
+    }
+    button.button_2_slide {
+        margin: 45% 0 0 45%;
+        border: none;
+        position: absolute;
+        padding: 6px 20px 6px 20px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Eastone";
+        font-size: 9px;
     }
 }
 
@@ -145,6 +271,30 @@
         margin-left: 3%;
         margin-top: 3%;
     }
+    h1.philosophy {
+        opacity: 0.7;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 12px;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 12px;
+        font-family: "Intro_Regular";
+    }
+    div.about_me {
+        position: absolute;
+        margin: 2% 0 0 40%;
+        font-size: 18px;
+    }
+    h1.study {
+        color: white;
+        font-size: 9px;
+        font-family: "Crossten";
+        opacity: 0.6;
+        line-height: 1.5;
+    }
 }
 /*481 - 768 px*/
 @media ( max-width: 768px) {
@@ -174,6 +324,52 @@
     }
     video.pop_mp4{
         width: 100%;
+    }
+    div.about_me {
+        position: absolute;
+        margin: 2% 0 0 40%;
+        font-size: 12px;
+    }
+    div.web_design {
+        position: absolute;
+        margin: 12% 0 0 39%;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 10px;
+        font-family: "Intro_Regular";
+    }
+    div.philosophy {
+        position: absolute;
+        margin: 16% 0 0 32%;
+    }
+    h1.philosophy {
+        opacity: 0.7;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 11px;
+    }
+    div.video_fon_slide2 {
+        position: absolute;
+        height: 66%;
+        margin: 19% 0 0 7%;
+    }
+    button.button_2_slide {
+        margin: 45% 0 0 45%;
+        border: none;
+        position: absolute;
+        padding: 4px 11px 4px 11px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Eastone";
+        font-size: 7px;
     }
 }
 /*320 - 480 px*/
@@ -254,5 +450,78 @@
     }
     .container_fon {
         display: none;
+    }
+    div.container_fon_slide3 {
+        margin-top: 116%;
+        width: 100%;
+        position: absolute;
+    }
+    div.container_right_img {
+        position: absolute;
+        margin: 11% 0 0 40%;
+        width: 60%;
+        display: none;
+    }
+    img.slide_fon_2_img {
+        opacity: 0.2;
+        width: 30%;
+        height: auto;
+        display: none;
+    }
+    div.video_fon_slide2 {
+        position: absolute;
+        height: 66%;
+        margin: 38% 0 0 39%;
+    }
+    div.video_fon_slide2 {
+        position: absolute;
+        height: 66%;
+        margin: 24% 0 0 39%;
+    }
+    button.button_2_slide {
+        margin: 60% 0 0 68%;
+        border: none;
+        position: absolute;
+        padding: 6px 15px 6px 15px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-family: "Eastone";
+        font-size: 9px;
+    }
+    div.about_me {
+        position: absolute;
+        margin: 0% 0 0 34%;
+        font-size: 17px;
+    }
+    div.web_design {
+        position: absolute;
+        margin: 17% 0 0 34%;
+    }
+    h1.web_design {
+        opacity: 0.7;
+        color: white;
+        font-size: 13px;
+        font-family: "Intro_Regular";
+    }
+    div.philosophy {
+        width: 35%;
+        position: absolute;
+        margin: 89% 0 0 4%;
+    }
+    h1.philosophy {
+        opacity: 0.6;
+        color: white;
+        font-family: "Intro_Regular";
+        font-size: 11px;
+    }
+    div.study {
+        position: absolute;
+        margin: 73% 0 0 4%;
     }
 }

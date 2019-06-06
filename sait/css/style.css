@@ -101,11 +101,11 @@ h1.years{
 }
 div.container_bow{
     position: absolute;
-    margin-left: 50%;
+    margin-left: 48%;
     margin-top: 48%;
 }
 div.container_scroll{
-    margin-left: 52%;
+    margin-left: 50%;
     margin-top: 48%;
     position: absolute;
 }
@@ -124,3 +124,121 @@ div.container_slide2_fon {
 img.container_slide2_fon_img{
     width: 100%;
 }
+div.about_me{
+    position: absolute;
+    margin: 2% 0 0 40%;
+    font-size: 40px;
+}
+h1.about{
+    opacity: 0.7;
+    font-family: "Eastone";
+    color: white;
+    letter-spacing: 2px;
+}
+div.web_design{
+    position: absolute;
+    margin: 12% 0 0 41%;
+}
+h1.web_design{
+    opacity: 0.7;
+    color: white;
+    font-size: 27px;
+    font-family: "Intro_Regular";
+}
+div.philosophy{
+    position: absolute;
+    margin: 16% 0 0 36%;
+}
+h1.philosophy{
+    opacity: 0.7;
+    color: white;
+    font-family: "Intro_Regular";
+    font-size: 27px;
+}
+div.container_slide_fon2_img{
+    position: absolute;
+    margin: 14% 0 0 4%;
+    width: 96%;
+}
+img.slide_fon_2_img{
+    opacity: 0.2;
+    width: 30%;
+    height: auto;
+}
+div.video_fon_slide2{
+    position: absolute;
+    height: 50%;
+    margin: 19% 0 0 7%;
+}
+video.video_fon_2{
+    height: 100%;
+}
+div.container_right_img{
+    position: absolute;
+    margin: 11% 0 0 40%;
+    width: 60%;
+}
+img.right_fon2{
+    width: 100%;
+    opacity: 0.5;
+}
+div.study{
+    position: absolute;
+    margin: 34% 0 0 17%;
+}
+h1.study{
+    color: white;
+    font-size: 21px;
+    font-family: "Crossten";
+    opacity: 0.6;
+    line-height: 1.5;
+}
+
+button.button_2_slide{
+    margin: 45% 0 0 45%;
+    border: none;
+    position: absolute;;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: "Eastone";
+}
+.button_2_slide:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_2_slide{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+div.love_Katya{
+    position: absolute;
+    margin: 20% 0 0 82%;
+    width: 1%;
+}
+h1.Katya{
+    font-family: "Eastone";
+    color: white;
+    font-size: 31px;
+    opacity: 0.02;
+}
+/*--------------slide-3-----------------*/
+div.container_fon_slide3{
+    margin-top: 51%;
+    width: 100%;
+    position: absolute;
+}
+img.slide_fon_3{
+    width: 100%;
+}
+div.container_slide3{
+    width: 100%;
+}
+
+
+
