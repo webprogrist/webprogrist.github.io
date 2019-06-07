@@ -537,6 +537,12 @@
         font-size: 13px;
         font-family: "Intro_Regular";
     }
+    div.container_slide_fon2_img {
+        position: absolute;
+        margin: 14% 0 0 4%;
+        width: 96%;
+        display: none;
+    }
 }
 @media ( max-width: 369px){
     div.about_me {
@@ -547,5 +553,11 @@
     div.web_design {
         position: absolute;
         margin: 17% 0 0 31%;
+    }
+    div.container_slide_fon2_img {
+        position: absolute;
+        margin: 14% 0 0 4%;
+        width: 96%;
+        display: none;
     }
 }
