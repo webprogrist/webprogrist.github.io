@@ -524,6 +524,22 @@
         position: absolute;
         margin: 73% 0 0 4%;
     }
+    div.video_fon_slide2{
+        display: none;
+    }
+    div.video_fon_slide2_mp4{
+        display: block;
+        position: absolute;
+        height: 65%;
+        margin: 24% 0 0 39%;
+    }
+    video.video_fon_2{
+        display: none;
+    }
+    video.video_fon_2_mp4{
+        height: 100%;
+        display: block;
+    }
 }
 @media ( max-width: 414px){
     div.about_me {
@@ -543,6 +559,9 @@
         width: 96%;
         display: none;
     }
+    div.video_fon_slide2{
+        display: none;
+    }
 }
 @media ( max-width: 369px){
     div.about_me {
@@ -558,6 +577,9 @@
         position: absolute;
         margin: 14% 0 0 4%;
         width: 96%;
+        display: none;
+    }
+    div.video_fon_slide2{
         display: none;
     }
 }

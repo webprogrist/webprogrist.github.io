@@ -227,6 +227,13 @@ h1.Katya{
     font-size: 31px;
     opacity: 0.02;
 }
+div.video_fon_slide2_mp4{
+    display: none;
+}
+video.video_fon_2_mp4{
+    display: none;
+}
+
 /*--------------slide-3-----------------*/
 div.container_fon_slide3{
     margin-top: 51%;
