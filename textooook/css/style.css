@@ -1,0 +1,344 @@
+body{
+	background-color: black;
+	height: 12683px;
+ margin: 0;
+	overflow-x: hidden;
+    overflow-y: auto;
+	
+}
+/*Specs*/
+h1 h2 h3 h4 h5 p {
+    color: white;
+}
+
+
+
+
+/*--------------slide-1-----------*/
+header{
+
+    margin: 0 auto;
+    height: 100vh;
+}
+.container_Menu{
+    position: absolute;
+    left: 0;
+    top: 10%;
+    width: 100%;
+    height:50px;
+    text-align: center;
+    display: inline;
+    vertical-align:middle;
+}
+a.menu{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding-left: 51px;
+    padding-right: 51px;
+    font-family: "Crossten";
+    font-size: 23px;
+}
+.container{
+    position: absolute;
+    margin: 0 auto;
+    width: 100%;
+}
+.container_mp4{
+    display: none;
+}
+video.pop{
+    width: 100%;
+}
+.logo{
+    position: absolute;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+.container_fon{
+    position: absolute;
+    margin-left: 17%;
+    margin-top: 30%;
+    width: 96%;
+    max-width: 960px;
+}
+img.img_fon_1{
+    width: 18%; /* ширина картинки */
+    height: auto; /* высота картинки */
+}
+div.video_fon_1 {
+    opacity: 0.5;
+    width: 49%;
+    position: absolute;
+    margin: 11% 5% 5% 26%;
+}
+video.video-fon{
+    width: 100%;
+}
+video.video-fon_mp4{
+    display: none;
+}
+div.container_fon_2{
+    position: absolute;
+    margin-left: 74%;
+    margin-top: 11%;
+}
+img.container_fon_2_img{
+    width: 46%;
+}
+div.container_years{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 30%;
+}
+h1.years{
+    font-size: 100px;
+    font-family: "Eastone";
+    color: white;
+    transform: rotate(270deg);
+    letter-spacing: 5px;
+}
+div.container_bow{
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 48%;
+}
+div.container_scroll{
+    margin-left: 50%;
+    margin-top: 48%;
+    position: absolute;
+}
+h1.scroll{
+    color: white;
+    font-size: 15px;
+    font-family: "Crossten";
+    letter-spacing: 3px;
+}
+/*---------2 slide------------*/
+div.container_slide2_fon {
+    position: absolute;
+    margin: 0 auto;
+    height: 100vh;
+}
+img.container_slide2_fon_img{
+    width: 100%;
+}
+div.about_me{
+    position: absolute;
+    margin: 2% 0 0 40%;
+    font-size: 40px;
+}
+h1.about{
+    opacity: 0.7;
+    font-family: "Eastone";
+    color: white;
+    letter-spacing: 2px;
+}
+div.web_design{
+    position: absolute;
+    margin: 12% 0 0 41%;
+}
+h1.web_design{
+    opacity: 0.7;
+    color: white;
+    font-size: 27px;
+    font-family: "Intro_Regular";
+}
+div.philosophy{
+    position: absolute;
+    margin: 16% 0 0 36%;
+}
+h1.philosophy{
+    opacity: 0.7;
+    color: white;
+    font-family: "Intro_Regular";
+    font-size: 27px;
+}
+div.container_slide_fon2_img{
+    position: absolute;
+    margin: 14% 0 0 4%;
+    width: 96%;
+}
+img.slide_fon_2_img{
+    opacity: 0.2;
+    width: 30%;
+    height: auto;
+}
+div.video_fon_slide2{
+    position: absolute;
+    height: 50%;
+    margin: 19% 0 0 7%;
+}
+video.video_fon_2{
+    height: 100%;
+}
+div.container_right_img{
+    position: absolute;
+    margin: 11% 0 0 40%;
+    width: 60%;
+}
+img.right_fon2{
+    width: 100%;
+    opacity: 0.5;
+}
+div.study{
+    position: absolute;
+    margin: 34% 0 0 17%;
+}
+h1.study{
+    color: white;
+    font-size: 21px;
+    font-family: "Crossten";
+    opacity: 0.6;
+    line-height: 1.5;
+}
+
+button.button_2_slide{
+    margin: 45% 0 0 45%;
+    border: none;
+    position: absolute;;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: "Eastone";
+}
+.button_2_slide:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_2_slide{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+div.love_Katya{
+    position: absolute;
+    margin: 20% 0 0 82%;
+    width: 1%;
+}
+h1.Katya{
+    font-family: "Eastone";
+    color: white;
+    font-size: 31px;
+    opacity: 0.02;
+}
+div.video_fon_slide2_mp4{
+    display: none;
+}
+video.video_fon_2_mp4{
+    display: none;
+}
+
+
+/*--------------slide-3-----------------*/
+div.container_fon_slide3{
+    margin-top: 51%;
+    width: 100%;
+    position: absolute;
+}
+img.slide_fon_3{
+    width: 100%;
+}
+div.container_slide3{
+    width: 100%;
+}
+div.dopol_slide3{
+    position: absolute;
+    width: 100%;
+    margin-top: 51%;
+}
+img.dopol_slide3{
+    width: 100%;
+}
+div.container_slide3_phone{
+    width: 80%;
+    margin: 93% 0 0 -25%;
+    position: absolute;
+}
+img.container_slide3_phone{
+    width: 100%;
+}
+div.DESIGN_container_slide3{
+    margin: 110% 0 0 5%;
+    position: absolute;
+}
+h1.DESIGN_slide3{
+    letter-spacing: 17px;
+    font-size: 99px;
+    color: white;
+    font-family: "Eastone";
+    transform: rotate(270deg);
+}
+
+button.button_3_slide{
+    margin: 129% 0 0 10%;
+    border: none;
+    position: absolute;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: "Eastone";
+}
+.button_3_slide:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_3_slide{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+div.container_3dwork{
+    position: absolute;
+    margin: 135% 0 0 10%;
+}
+h1.d_work{
+    color: white;
+    font-size: 32px;
+    font-family: "Crossten";
+}
+div.fon_3d_work{
+    position: absolute;
+    opacity: 0.1;
+    margin: 104% 0 0 40%;
+}
+h1.fon_work{
+    letter-spacing: 6px;
+    font-size: 190px;
+    color: #9A4CCE;
+    font-family: "Eastone";
+}
+
+div.Creation_slide3{
+    position: absolute;
+    margin: 64% 0 0 30%;
+}
+h1.creation_slide_3{
+    color: white;
+    font-size: 180px;
+    font-family: "Eastone";
+    letter-spacing: 3px;
+}
+img.sl{
+    width: 	50%;
+    margin-left: 159px;
+}
+div.sl1{
+    position: absolute;
+    margin-top: 50%;
+    width: 100%;
+}
+
+
+
+
