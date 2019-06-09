@@ -7,6 +7,49 @@ jQuery(function($){
   autoplay: true,
   autoplaySpeed: 1300,
   arrows: false,
+			adaptiveHeight: true,
+			mobileFirst:true,
+			responsive: [
+				{
+					breakpoint: 961,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1,
+						autoplay: true,
+						autoplaySpeed: 1300,
+						arrows: false,
+
+					}
+
+				},
+				{
+					breakpoint: 722,
+					settings: {
+						slidesToShow: 3,
+						slidesToScroll: 1,
+						autoplay: true,
+						autoplaySpeed: 1300,
+						arrows: false,
+
+					}
+
+				},
+				{
+					breakpoint: 320,
+					settings: {
+						slidesToShow: 1,
+						slidesToScroll: 1,
+						autoplay: true,
+						autoplaySpeed: 1300,
+						arrows: false,
+
+					}
+
+				}
+
+			]
+
+
 		});
 	});
 

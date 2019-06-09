@@ -234,6 +234,7 @@ video.video_fon_2_mp4{
     display: none;
 }
 
+
 /*--------------slide-3-----------------*/
 div.container_fon_slide3{
     margin-top: 51%;
@@ -246,6 +247,100 @@ img.slide_fon_3{
 div.container_slide3{
     width: 100%;
 }
+div.dopol_slide3{
+    position: absolute;
+    width: 100%;
+    margin-top: 51%;
+}
+img.dopol_slide3{
+    width: 100%;
+}
+div.container_slide3_phone{
+    width: 80%;
+    margin: 93% 0 0 -25%;
+    position: absolute;
+}
+img.container_slide3_phone{
+    width: 100%;
+}
+div.DESIGN_container_slide3{
+    margin: 110% 0 0 6%;
+    position: absolute;
+}
+h1.DESIGN_slide3 {
+    letter-spacing: 17px;
+    font-size: 85px;
+    color: white;
+    font-family: "Eastone";
+    transform: rotate(270deg);
+}
+button.button_3_slide{
+    margin: 129% 0 0 10%;
+    border: none;
+    position: absolute;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: "Eastone";
+}
+.button_3_slide:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_3_slide{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+div.container_3dwork{
+    position: absolute;
+    margin: 135% 0 0 10%;
+}
+h1.d_work{
+    color: white;
+    font-size: 32px;
+    font-family: "Crossten";
+}
+div.fon_3d_work{
+    position: absolute;
+    opacity: 0.1;
+    margin: 104% 0 0 40%;
+}
+h1.fon_work{
+    letter-spacing: 6px;
+    font-size: 190px;
+    color: #9A4CCE;
+    font-family: "Eastone";
+}
+
+div.Creation_slide3{
+    position: absolute;
+    margin: 64% 0 0 30%;
+}
+h1.creation_slide_3{
+    color: white;
+    font-size: 180px;
+    font-family: "Eastone";
+    letter-spacing: 3px;
+}
+img.sl{
+    width: 	50%;
+    margin-left: 159px;
+}
+div.sl1{
+    position: absolute;
+    margin-top: 146%;
+    width: 100%;
+}
+.slick-slide{
+    width: 200px;
+}
+
 
 
 
