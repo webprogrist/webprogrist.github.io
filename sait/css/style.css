@@ -340,6 +340,16 @@ div.sl1{
 .slick-slide{
     width: 200px;
 }
+div.container_slide4{
+    position: absolute;
+    width: 100%;
+    margin-top: 190%;
+}
+img.slide4{
+    position: absolute;
+    width: 100%;
+}
+
 
 
 
