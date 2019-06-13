@@ -343,12 +343,114 @@ div.sl1{
 div.container_slide4{
     position: absolute;
     width: 100%;
-    margin-top: 190%;
+    margin-top: 157%;
 }
 img.slide4{
     position: absolute;
     width: 100%;
 }
+div.container_4slide{
+    opacity: 1;
+    position: absolute;
+    margin: 180.3% 0 0 -1%;
+    width: 100%;
+}
+video.container_fon4_music{
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
+}
+div.dopol_fon_4slide{
+    position: absolute;
+    margin: 42% 0 0 41%;
+    width: 19%;
+}
+img.dopol_4_slide{
+    position: absolute;
+    width: 100%;
+}
+article.post{
+    position: absolute;
+    margin: 68% 0 0 7%;
+}
+a.title{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: "Intro_Regular";
+    text-decoration: none;
+    list-style: none;
+}
+div.content_post{
+    position: absolute;
+    margin: 0% 0 0 1%;
+}
+p.content_post{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 19px;
+    font-family: "Intro_Regular";
+    text-decoration: none;
+    list-style: none;
+}
+article.post_1 {
+    position: absolute;
+    margin: 83% 0 0 7%;
+}
+div.content_post_1{
+    position: absolute;
+    margin: 0% 0 0 1%;
+}
+a.title_1{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 24px;
+    font-family: "Intro_Regular";
+    text-decoration: none;
+    list-style: none;
+}
+button.button_slide4{
+    margin: 106% 0 0 46.8%;
+    border: none;
+    position: absolute;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: "Eastone";
+}
+.button_slide4:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_slide4{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+div.container_slide4_mob{
+    position: absolute;
+    width: 100%;
+    margin-top: 221%;
+    display: none;
+}
+img.slide4_mob{
+    width: 100%;
+    position: absolute;
+    display: none;
+}
+video.container_fon4_music_mob{
+    display: none;
+    opacity: 0.5;
+    position: absolute;
+    width: 100%;
+}
+
+
 
 
 

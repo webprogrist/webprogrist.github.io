@@ -144,6 +144,52 @@
         width: 42%;
         margin-left: 151px;
     }
+    a.title {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 20px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    a.title_1 {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 20px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    p.content_post {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 17px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    button.button_slide4 {
+        margin: 106% 0 0 45.8%;
+        border: none;
+        position: absolute;
+        padding: 9px 42px 9px 42px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 12px;
+        font-family: "Eastone";
+    }
+    div.container_4slide {
+        opacity: 1;
+        position: absolute;
+        margin: 180.2% 0 0 -1%;
+        width: 100%;
+    }
 }
 /*961 - 1368 px*/
 @media ( max-width: 1368px) {
@@ -262,6 +308,46 @@
     img.sl {
         width: 38%;
         margin-left: 32%;
+    }
+    a.title {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 16px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    a.title_1 {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 16px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    p.content_post {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 14px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    button.button_slide4 {
+        margin: 106% 0 0 45.8%;
+        border: none;
+        position: absolute;
+        padding: 6px 20px 6px 20px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 9px;
+        font-family: "Eastone";
     }
 }
 @media ( max-width: 1081px){
@@ -560,6 +646,52 @@
         font-family: "Eastone";
         font-size: 7px;
     }
+    h1.creation_slide_3 {
+        color: white;
+        font-size: 70px;
+        font-family: "Eastone";
+        letter-spacing: 3px;
+    }
+    a.title {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 14px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    p.content_post {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 10px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    a.title_1 {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 14px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    button.button_slide4 {
+        margin: 106% 0 0 41.8%;
+        border: none;
+        position: absolute;
+        padding: 6px 16px 6px 16px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 9px;
+        font-family: "Eastone";
+    }
 }
 /*320 - 480 px*/
 @media ( max-width: 480px) {
@@ -741,7 +873,7 @@
     }
     h1.creation_slide_3 {
         color: white;
-        font-size: 51px;
+        font-size: 43px;
         font-family: "Eastone";
         letter-spacing: 3px;
     }
@@ -795,16 +927,39 @@
         display: none;
     }
     h1.DESIGN_slide3 {
-        letter-spacing: 5px;
-        font-size: 28px;
-        color: white;
-        font-family: "Eastone";
-        transform: rotate(270deg);
+        display: none;
     }
     div.DESIGN_container_slide3 {
         width: 1%;
         margin: 175% 0 0 14%;
         position: absolute;
+    }
+    div.container_slide4 {
+        display: none;
+        position: absolute;
+        width: 100%;
+        margin-top: 221%;
+    }
+    div.container_slide4_mob{
+        display: block;
+        position: absolute;
+        width: 100%;
+        margin-top: 221%;
+    }
+    img.slide4_mob{
+        display: block;
+    }
+    div.container_4slide {
+        opacity: 1;
+        position: absolute;
+        margin: 274.2% 0 0 0%;
+        width: 100%;
+    }
+    video.container_fon4_music{
+        display: none;
+    }
+    video.container_fon4_music_mob{
+        display: block;
     }
 }
 @media ( max-width: 418px){
@@ -838,6 +993,72 @@
         color: #9A4CCE;
         font-family: "Eastone";
     }
+    button.button_3_slide {
+        width: 22%;
+        margin: 198% 0 0 10%;
+        border: none;
+        padding: 5px 14px 5px 14px;
+        padding: 6px 13px 6px 13px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 8px;
+        font-family: "Eastone";
+    }
+    p.content_post {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 9px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    div.content_post {
+        position: absolute;
+        margin: -6% 0 0 1%;
+    }
+    a.title {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 12px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    a.title_1 {
+        letter-spacing: 3px;
+        color: white;
+        font-size: 12px;
+        font-family: "Intro_Regular";
+        text-decoration: none;
+        list-style: none;
+    }
+    article.post_1 {
+        position: absolute;
+        margin: 87% 0 0 7%;
+    }
+    button.button_slide4 {
+        margin: 112% 0 0 39.8%;
+        border: none;
+        position: absolute;
+        padding: 6px 16px 6px 16px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 9px;
+        font-family: "Eastone";
+    }
+
 }
 @media ( max-width: 369px){
     div.about_me {
