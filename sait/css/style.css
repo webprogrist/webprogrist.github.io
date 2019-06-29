@@ -449,6 +449,121 @@ video.container_fon4_music_mob{
     position: absolute;
     width: 100%;
 }
+div.container_slide5{
+    position: absolute;
+    width: 100%;
+    margin-left: -6%;
+    margin-top: 295%;
+}
+img.fon_5_slide{
+    position: absolute;
+    width: 100%;
+}
+div.container_News{
+    width: 22%;
+    position: absolute;
+    margin: 20% 0 0 49%;
+}
+div.container_news_dop{
+    position: absolute;
+    margin: 11% 0 0 51%;
+}
+h1.news_dop{
+    letter-spacing: 7px;
+    position: absolute;
+    font-size: 77px;
+    margin: 0% 0 0 0%;
+    color: white;
+    font-family: "Eastone";
+}
+div.news_title{
+    width: 150%;
+    position: absolute;
+    margin: 61% 0 0 -76%;
+}
+a.title_news{
+    position: absolute;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    font-family: "Intro_Regular";
+}
+div.news_content{
+    width: 83%;
+    position: absolute;
+    margin: 77% 0 0 -76%;
+}
+p.news_cont{
+    color: white;
+    position: absolute;
+    font-family: "Intro_Regular";
+    font-size: 17px;
+}
+div.news_title_1{
+    width: 150%;
+    position: absolute;
+    margin: 71% 0 0 0%;
+}
+a.title_news_1{
+    position: absolute;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    font-family: "Intro_Regular";
+}
+div.news_content_1{
+    width: 147%;
+    position: absolute;
+    margin: 84% 0 0 0%;
+}
+p.news_cont_1{
+    color: white;
+    position: absolute;
+    font-family: "Intro_Regular";
+    font-size: 17px;
+}
+div.container_News_1{
+    width: 30%;
+    position: absolute;
+    margin: 0% 0 0 32%;
+}
+button.button_slide5{
+    margin: 49% 0 0 36.8%;
+    border: none;
+    position: absolute;
+    padding: 12px 45px 12px 45px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: "Eastone";
+}
+.button_slide5:hover{
+    background-position: right center;
+    color: #fff;
+}
+.button_slide5{
+    background-image: linear-gradient(to right, #D825B4 0%, #5A25D8 51%, #1B1BD2 100%);
+}
+img.fon_51_slide{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin-top: 336%;
+}
+div.slide_fon_dad5{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin: 10% 0 0 0;
+}
 
 
 
