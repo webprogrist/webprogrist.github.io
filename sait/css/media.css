@@ -242,6 +242,10 @@
         font-size: 12px;
         font-family: "Eastone";
     }
+    img.sl2 {
+        width: 42%;
+        margin-left: 151px;
+    }
 }
 /*961 - 1368 px*/
 @media ( max-width: 1368px) {
@@ -413,6 +417,10 @@
         position: absolute;
         margin: 11% 0 0 49%;
     }
+    img.sl2 {
+        width: 38%;
+        margin-left: 32%;
+    }
 }
 @media ( max-width: 1081px){
     h1.philosophy {
@@ -543,6 +551,10 @@
         font-weight: 600;
         font-size: 9px;
         font-family: "Eastone";
+    }
+    img.sl2 {
+        width: 36%;
+        margin-left: 32%;
     }
 }
 
@@ -693,6 +705,10 @@
         margin: 0% 0 0 0%;
         color: white;
         font-family: "Eastone";
+    }
+    img.sl2 {
+        width: 50%;
+        margin-left: 30%;
     }
 }
 /*481 - 768 px*/
@@ -1178,6 +1194,15 @@
         width: 100%;
         height: auto;
         margin-top: 423%;
+    }
+    div.sl2 {
+        position: absolute;
+        margin-top: 218%;
+        width: 100%;
+    }
+    img.sl2 {
+        width: 30%;
+        margin-left: 38%;
     }
 }
 @media ( max-width: 418px){

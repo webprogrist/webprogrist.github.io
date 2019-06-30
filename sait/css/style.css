@@ -564,6 +564,44 @@ div.slide_fon_dad5{
     height: auto;
     margin: 10% 0 0 0;
 }
+/*---------slide_6---------*/
+
+div.container_slide_6{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin: 371% 0 0 0;
+}
+div.container_fon_slide6{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+img.fon_6_slide{
+    position: absolute;
+    width: 100%;
+}
+h1.design{
+    position: absolute;
+    font-family: "Crossten";
+    color: white;
+    font-size: 180px;
+    letter-spacing: 5px;
+    opacity: 0.46;
+}
+div.Design_slide6{
+    position: absolute;
+    margin: -3% 0 0 34%;
+}
+img.sl2 {
+    width: 50%;
+    margin-left: 159px;
+}
+div.sl2{
+position: absolute;
+margin-top: 42%;
+width: 100%;
+}
 
 
 
