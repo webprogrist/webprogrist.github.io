@@ -1,6 +1,6 @@
 body{
 	background-color: black;
-	height: 12683px;
+	height: 11900px;
  margin: 0;
 	overflow-x: hidden;
     overflow-y: auto;
@@ -602,6 +602,67 @@ position: absolute;
 margin-top: 42%;
 width: 100%;
 }
+div.Anime_slide7{
+    position: absolute;
+    margin: 10% 0 0 0;
+    width: 100%;
+    height: auto;
+}
+div._slide_fon{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    margin: 470.7% 0 0 0;
+}
+img._slide_fon{
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+div.Anime_slide7{
+    position: absolute;
+    margin: 456% 0 0 0%;
+}
+h1.Anime{
+    margin-left: 32%;
+    letter-spacing: 34px;
+    position: absolute;
+    font-size: 190px;
+    color: #CDAFD9;
+    font-family: "Eastone";
+}
+div.Naruto{
+    position: absolute;
+    margin: 512% 0 0 45.3%;
+}
+h1.Naruto{
+    font-size: 39px;
+    color: white;
+    font-family: "Eastone";
+    letter-spacing: 14px;
+}
+div.S_A_O{
+    position: absolute;
+    margin: 526% 0 0 66.3%;
+}
+h1.S_A_O{
+    font-size: 28px;
+    color: white;
+    font-family: "Eastone";
+    letter-spacing: 14px;
+}
+div.A_T{
+    position: absolute;
+    margin: 561% 0 0 12.3%;
+}
+h1.A_T{
+    font-size: 28px;
+    color: white;
+    font-family: "Eastone";
+    letter-spacing: 14px;
+}
+
+
 
 
 

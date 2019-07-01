@@ -258,6 +258,40 @@
         letter-spacing: 5px;
         opacity: 0.46;
     }
+    div.Anime_slide7{
+        position: absolute;
+        margin: 456% 0 0 0%;
+    }
+    h1.Anime {
+        margin-left: 32%;
+        letter-spacing: 34px;
+        position: absolute;
+        font-size: 146px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.Naruto {
+        font-size: 34px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 14px;
+    }
+    div.Naruto {
+        position: absolute;
+        margin: 512% 0 0 44%;
+    }
+    h1.S_A_O {
+        font-size: 15px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 14px;
+    }
+    h1.A_T {
+        font-size: 15px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 14px;
+    }
 }
 /*961 - 1368 px*/
 @media ( max-width: 1368px) {
@@ -441,6 +475,34 @@
         letter-spacing: 5px;
         opacity: 0.46;
     }
+    div.Anime_slide7 {
+        position: absolute;
+        margin: 459% 0 0 0%;
+    }
+    h1.Anime {
+        margin-left: 34%;
+        letter-spacing: 34px;
+        position: absolute;
+        font-size: 122px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    div.S_A_O {
+        position: absolute;
+        margin: 526% 0 0 63.3%;
+    }
+    h1.S_A_O {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 14px;
+    }
+    h1.A_T {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 10px;
+    }
 }
 @media ( max-width: 1081px){
     h1.philosophy {
@@ -584,6 +646,36 @@
         letter-spacing: 5px;
         opacity: 0.46;
     }
+    h1.Naruto {
+        font-size: 23px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 9px;
+    }
+    h1.S_A_O {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 9px;
+    }
+    h1.A_T {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 7px;
+    }
+    h1.Anime {
+        margin-left: 32%;
+        letter-spacing: 13px;
+        position: absolute;
+        font-size: 92px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    div.Anime_slide7{
+        position: absolute;
+        margin: 456% 0 0 0%;
+    }
 }
 
 /*769 - 960 px*/
@@ -592,11 +684,9 @@
         position: absolute;
         margin-left: 16%;
         margin-top: 30%;
-        width: 100%;
-        max-width: 960px;
     }
     img.img_fon_1 {
-        width: 10%;
+        width: 22%;
         height: auto;
     }
     h1.years {
@@ -738,6 +828,30 @@
         width: 50%;
         margin-left: 30%;
     }
+    div.Anime_slide7{
+        position: absolute;
+        margin: 456% 0 0 0%;
+    }
+    h1.Anime {
+        margin-left: 32%;
+        letter-spacing: 13px;
+        position: absolute;
+        font-size: 85px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.S_A_O {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 7px;
+    }
+    h1.A_T {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 6px;
+    }
 }
 @media ( max-width: 800px){
     h1.design {
@@ -747,6 +861,30 @@
         font-size: 71px;
         letter-spacing: 5px;
         opacity: 0.46;
+    }
+    div.Anime_slide7{
+        position: absolute;
+        margin: 456% 0 0 0%;
+    }
+    h1.Anime {
+        margin-left: 32%;
+        letter-spacing: 13px;
+        position: absolute;
+        font-size: 86px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.S_A_O {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 6px;
+    }
+    h1.A_T {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 5px;
     }
 }
 /*481 - 768 px*/
@@ -890,6 +1028,36 @@
         position: absolute;
         margin: -3% 0 0 33%;
     }
+    h1.Anime {
+        margin-left: 36%;
+        letter-spacing: 13px;
+        position: absolute;
+        font-size: 66px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.S_A_O {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 3px;
+    }
+    h1.A_T {
+        font-size: 14px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 3px;
+    }
+    div.Naruto {
+        position: absolute;
+        margin: 512% 0 0 43%;
+    }
+    h1.Naruto {
+        font-size: 17px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 9px;
+    }
 }
 @media ( max-width: 624px) {
     div.news_content_1 {
@@ -975,6 +1143,32 @@
     div.Design_slide6 {
         position: absolute;
         margin: -3% 0 0 28%;
+    }
+    h1.Anime {
+        margin-left: 28%;
+        letter-spacing: 13px;
+        position: absolute;
+        font-size: 66px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.S_A_O {
+        font-size: 12px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 1px;
+    }
+    h1.A_T {
+        font-size: 12px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 1px;
+    }
+    h1.Naruto {
+        font-size: 17px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 5px;
     }
 }
 /*320 - 480 px*/
@@ -1285,6 +1479,48 @@
         height: auto;
         margin: 495% 0 0 0;
     }
+    div._slide_fon {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        margin: 594.6% 0 0 0;
+    }
+    div.Anime_slide7 {
+        position: absolute;
+        margin: 580% 0 0 0%;
+    }
+    h1.Anime {
+        margin-left: 26%;
+        letter-spacing: 23px;
+        position: absolute;
+        font-size: 43px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    div.Naruto {
+        position: absolute;
+        margin: 633% 0 0 40%;
+    }
+    h1.Naruto {
+        font-size: 17px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 5px;
+    }
+    h1.A_T {
+        font-size: 11px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 1px;
+    }
+    div.A_T {
+        position: absolute;
+        margin: 683% 0 0 12.3%;
+    }
+    div.S_A_O {
+        position: absolute;
+        margin: 646% 0 0 63.3%;
+    }
 }
 @media ( max-width: 418px){
     div.about_me {
@@ -1449,6 +1685,26 @@
         position: absolute;
         margin: -3% 0 0 28%;
     }
+    h1.Anime {
+        margin-left: 28%;
+        letter-spacing: 23px;
+        position: absolute;
+        font-size: 31px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.S_A_O {
+        font-size: 11px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 1px;
+    }
+    h1.A_T {
+        font-size: 10px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 1px;
+    }
 }
 @media ( max-width: 369px){
     div.about_me {
@@ -1507,5 +1763,19 @@
         font-size: 46px;
         letter-spacing: 5px;
         opacity: 0.46;
+    }
+    h1.Anime {
+        margin-left: 28%;
+        letter-spacing: 23px;
+        position: absolute;
+        font-size: 29px;
+        color: #CDAFD9;
+        font-family: "Eastone";
+    }
+    h1.Naruto {
+        font-size: 15px;
+        color: white;
+        font-family: "Eastone";
+        letter-spacing: 5px;
     }
 }
