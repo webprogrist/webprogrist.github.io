@@ -1,0 +1,110 @@
+/*1369 - 1600 px*/
+@media ( max-width: 1600px) {
+    h1.Alexey {
+        position: absolute;
+        font-size: 50px;
+        color: white;
+        font-family: "Comic Sans MS";
+        letter-spacing: 16px;
+        margin: 20% 0% 0% 39%;
+    }
+    li {
+        letter-spacing: 2px;
+        font-family: "Comic Sans MS";
+        font-size: 14px;
+        padding-left: 22px;
+        padding-right: 22px;
+    }
+    h1.scroll {
+        margin: 48.3% 0 0 49.6%;
+        color: white;
+        font-size: 16px;
+        letter-spacing: 1px;
+        position: absolute;
+        font-family: "Futura-Normal";
+    }
+    /*961 - 1368 px*/
+    @media ( max-width: 1368px) {
+        h1.Alexey {
+            position: absolute;
+            font-size: 47px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 14px;
+            margin: 20% 0% 0% 39%;
+        }
+        li {
+            letter-spacing: 2px;
+            font-family: "Comic Sans MS";
+            font-size: 12px;
+            padding-left: 22px;
+            padding-right: 22px;
+        }
+        h1.scroll {
+            margin: 48.3% 0 0 49.6%;
+            color: white;
+            font-size: 13px;
+            letter-spacing: 1px;
+            position: absolute;
+            font-family: "Futura-Normal";
+        }
+    }
+    @media ( max-width: 1081px){
+        h1.Alexey {
+            position: absolute;
+            font-size: 38px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 14px;
+            margin: 20% 0% 0% 38%;
+        }
+    }
+
+    /*769 - 960 px*/
+    @media ( max-width: 960px) {
+        div.container_Menu {
+            position: absolute;
+            left: 0;
+            top: 7%;
+            width: 97%;
+            height: 50px;
+            text-align: center;
+            display: inline;
+            vertical-align: middle;
+        }
+        h1.Alexey {
+            position: absolute;
+            font-size: 31px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 14px;
+            margin: 20% 0% 0% 38%;
+        }
+    }
+    @media ( max-width: 800px){
+        h1.Alexey {
+            position: absolute;
+            font-size: 25px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 14px;
+            margin: 20% 0% 0% 38%;
+        }
+    }
+    /*481 - 768 px*/
+    @media ( max-width: 768px) {
+
+    }
+    @media ( max-width: 624px) {
+
+    }
+    /*320 - 480 px*/
+    @media ( max-width: 480px) {
+
+    }
+    @media ( max-width: 418px){
+
+    }
+    @media ( max-width: 369px){
+
+    }
