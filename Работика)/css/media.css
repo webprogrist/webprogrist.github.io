@@ -8,6 +8,7 @@
         letter-spacing: 16px;
         margin: 20% 0% 0% 39%;
     }
+
     li {
         letter-spacing: 2px;
         font-family: "Comic Sans MS";
@@ -15,6 +16,7 @@
         padding-left: 22px;
         padding-right: 22px;
     }
+
     h1.scroll {
         margin: 48.3% 0 0 49.6%;
         color: white;
@@ -23,6 +25,7 @@
         position: absolute;
         font-family: "Futura-Normal";
     }
+}
     /*961 - 1368 px*/
     @media ( max-width: 1368px) {
         h1.Alexey {
@@ -65,7 +68,7 @@
         div.container_Menu {
             position: absolute;
             left: 0;
-            top: 7%;
+            top: 4%;
             width: 97%;
             height: 50px;
             text-align: center;
@@ -93,18 +96,106 @@
     }
     /*481 - 768 px*/
     @media ( max-width: 768px) {
-
+        h1.Alexey {
+            position: absolute;
+            font-size: 44px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 14px;
+            margin: 20% 0% 0% 33%;
+        }
+    }
+    @media ( max-width: 670px) {
+        h1.Alexey {
+            position: absolute;
+            font-size: 35px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 11px;
+            margin: 20% 0% 0% 33%;
+        }
     }
     @media ( max-width: 624px) {
-
+        h1.Alexey {
+            position: absolute;
+            font-size: 30px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 11px;
+            margin: 20% 0% 0% 33%;
+        }
     }
     /*320 - 480 px*/
     @media ( max-width: 480px) {
-
+        .burger_menu_button{
+            display: block;
+            position: fixed;
+            top: 6%;
+            left: 84%;
+            z-index: 30;
+            width: 44px;
+            height: 44px;
+            border-radius: 44%;
+            background-color: white;
+        }
+        ul.menu{
+            display: none;
+        }
+        video.video_fon_slide1 {
+            width: 100%;
+            transform: rotate(270deg);
+        }
+        h1.Alexey {
+            position: absolute;
+            font-size: 40px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 11px;
+            margin: 61% 0% 0% 25%;
+        }
+        div.slide1_video {
+            margin-top: 50%;
+            position: absolute;
+            height: 100%;
+            width: auto;
+        }
+        div.fon_slide1 {
+            width: 20%;
+            position: absolute;
+            margin: 58% 0 0 39%;
+        }
+        img.bow {
+            width: 2.8%;
+            margin: 166% 0 0 43%;
+            position: absolute;
+        }
+        h1.scroll {
+            margin: 167.3% 0 0 48.6%;
+            color: white;
+            font-size: 13px;
+            letter-spacing: 2px;
+            position: absolute;
+            font-family: "Futura-Normal";
+        }
     }
-    @media ( max-width: 418px){
 
+    @media ( max-width: 418px){
+        h1.Alexey {
+            position: absolute;
+            font-size: 30px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 11px;
+            margin: 61% 0% 0% 25%;
+        }
     }
     @media ( max-width: 369px){
-
+        h1.Alexey {
+            position: absolute;
+            font-size: 26px;
+            color: white;
+            font-family: "Comic Sans MS";
+            letter-spacing: 11px;
+            margin: 61% 0% 0% 25%;
+        }
     }

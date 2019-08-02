@@ -38,6 +38,7 @@ img.dopol_2{
 	width: 100%;
 }
 .burger_menu_button{
+    display: none;
 	position: fixed;
 	top: 6%;
 	left: 84%;
@@ -122,7 +123,7 @@ img.dopol_2{
 div.container_Menu{
 	position: absolute;
 	left: 0;
-	top: 7%;
+	top: 4%;
 	width: 99%;
 	height:50px;
 	text-align: center;
@@ -174,6 +175,9 @@ h1.scroll{
 	letter-spacing: 1px;
 	position: absolute;
 	font-family: "Futura-Normal";
+}
+ul.menu {
+    display: block;
 }
 /*-----------slide_2---------*/
 h1.years{
