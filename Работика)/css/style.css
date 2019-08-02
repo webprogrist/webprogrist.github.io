@@ -179,6 +179,12 @@ h1.scroll{
 ul.menu {
     display: block;
 }
+div.slide1_video_mp4{
+	display: none;
+}
+video.video_fon_slide1_mp4{
+	display: none;
+}
 /*-----------slide_2---------*/
 h1.years{
 	margin: 16% 0 0 10%;
