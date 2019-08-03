@@ -373,3 +373,23 @@ button.button_5_slide {
     letter-spacing: 2px;
     box-shadow: 0px 0px 20px 6px #1C2DC5;
 }
+/*-----------slide-3------------*/
+div.slide3_video{
+    position: absolute;
+    margin: 147% 0 0 6%;
+    width: 17%;
+    transform: rotate(270deg);
+}
+video.video_fon_slide3{
+    width: 100%;
+    position: absolute;
+}
+div.sl{
+    position: absolute;
+    margin: 0% 0 0 5%;
+    z-index: 20;
+}
+img.sl{
+    width: 86%;
+    margin: 0 0 0 9.5%;
+}
