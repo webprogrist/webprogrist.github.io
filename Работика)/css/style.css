@@ -211,6 +211,7 @@ img.dop2_1{
 	position: absolute;
 	margin: 44% 0 0 0%;
 	width: 24%;
+    z-index: 1;
 }
 img.dop2_2{
 	position: absolute;
@@ -259,4 +260,116 @@ button.button_3_slide {
 	font-family: "Futura-Normal";
 	letter-spacing: 2px;
 }
-
+img.slide2_dop3{
+    position: absolute;
+    margin: 77% 0 0 0%;
+    width: 100%;
+}
+img.slide2_dop4{
+    position: absolute;
+    margin: 82% 0 0 19%;
+    width: 17%;
+    z-index: 2;
+}
+img.slide2_dop5{
+    position: absolute;
+    margin: 74% 0 0 54%;
+    width: 30%;
+}
+img.slide2_dop6{
+    position: absolute;
+    margin: 85% 0 0 8%;
+    width: 38%;
+    z-index: 3;
+}
+h1.blog{
+    position: absolute;
+    z-index: 4;
+    font-family: "Comic Sans MS";
+    color: white;
+    font-size: 22px;
+    margin: 84% 0 0 26%;
+    letter-spacing: 1.3px;
+}
+article.post{
+    position: absolute;
+    margin: 87% 0 0 50%;
+}
+a.title{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-decoration: none;
+    list-style: none;
+}
+div.content_post{
+    position: absolute;
+    margin: 4% 0 0 0%;
+}
+p.content_post{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 14px;
+    font-family: "Comic Sans MS";
+    text-decoration: none;
+    list-style: none;
+}
+article.post_1 {
+    position: absolute;
+    margin: 105% 0 0 50%;
+}
+div.content_post_1{
+    position: absolute;
+    margin: 4% 0 0 0%;
+}
+a.title_1{
+    letter-spacing: 3px;
+    color: white;
+    font-size: 18px;
+    font-family: "Comic Sans MS";
+    text-decoration: none;
+    list-style: none;
+}
+.button_4_slide {
+    background-image: linear-gradient(to bottom, #C919CF 0%, #6C16BB 50%, #1813AA 100%);
+}
+button.button_4_slide {
+    margin: 120.7% 0 0 50.4%;
+    border: none;
+    position: absolute;
+    padding: 10px 122px 10px 29px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 12px;
+    font-family: "Futura-Normal";
+    letter-spacing: 2px;
+}
+.button_5_slide {
+    background-image: linear-gradient(to bottom, #C919CF 0%, #6C16BB 50%, #1813AA 100%);
+}
+button.button_5_slide {
+    opacity: 0.89;
+    margin: 121% 0 0 50.2%;
+    border: none;
+    position: absolute;
+    padding: 7px 29px 7px 29px;
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 7px 20px -5px black;
+    border-radius: 22px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: "Futura-Normal";
+    letter-spacing: 2px;
+    box-shadow: 0px 0px 20px 6px #1C2DC5;
+}
