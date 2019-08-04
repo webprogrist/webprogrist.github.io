@@ -135,6 +135,26 @@
         width: 100%;
         margin: 0% 0 0 0%;
     }
+    button.button_6_slide {
+        opacity: 0.89;
+        z-index: 5;
+        margin: 196% 0 0 26.2%;
+        border: none;
+        position: absolute;
+        padding: 7px 29px 7px 29px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 12px;
+        font-family: "Futura-Normal";
+        letter-spacing: 2px;
+        box-shadow: 0px 0px 20px 6px #1C2DC5;
+    }
 }
     /*961 - 1368 px*/
     @media ( max-width: 1368px) {
@@ -215,7 +235,26 @@
             letter-spacing: 2px;
             opacity: 0.51;
         }
-
+        button.button_6_slide {
+            opacity: 0.89;
+            z-index: 5;
+            margin: 195.7% 0 0 26.2%;
+            border: none;
+            position: absolute;
+            padding: 7px 29px 7px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+            box-shadow: 0px 0px 20px 6px #1C2DC5;
+        }
     }
     @media ( max-width: 1081px){
         h1.Alexey {
@@ -296,6 +335,23 @@
             font-family: "Eastone";
             color: white;
             letter-spacing: 20px;
+        }
+        button.button_7_slide {
+            margin: 196.9% 0 0 26.4%;
+            border: none;
+            position: absolute;
+            padding: 10px 122px 10px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
         }
     }
 
@@ -583,6 +639,43 @@
             letter-spacing: 3;
             opacity: 0.51;
         }
+        button.button_6_slide {
+            opacity: 0.89;
+            z-index: 5;
+            margin: 195.7% 0 0 26.2%;
+            border: none;
+            position: absolute;
+            padding: 7px 29px 7px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 9px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+            box-shadow: 0px 0px 20px 6px #1C2DC5;
+        }
+        button.button_7_slide {
+            margin: 196.9% 0 0 26.4%;
+            border: none;
+            position: absolute;
+            padding: 10px 103px 10px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+        }
 
     }
     @media ( max-width: 670px) {
@@ -683,6 +776,26 @@
             font-family: "Eastone";
             color: white;
             letter-spacing: 11px;
+        }
+        button.button_6_slide {
+            opacity: 0.89;
+            z-index: 5;
+            margin: 194.7% 0 0 26.2%;
+            border: none;
+            position: absolute;
+            padding: 7px 29px 7px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 9px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+            box-shadow: 0px 0px 20px 6px #1C2DC5;
         }
     }
     @media ( max-width: 624px) {
@@ -990,6 +1103,43 @@
             position: absolute;
             margin: 192% 0 0 9%;
         }
+        button.button_7_slide {
+            margin: 222.9% 0 0 36.4%;
+            border: none;
+            position: absolute;
+            padding: 10px 103px 10px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+        }
+        button.button_6_slide {
+            opacity: 0.89;
+            z-index: 5;
+            margin: 220.7% 0 0 36.1%;
+            border: none;
+            position: absolute;
+            padding: 7px 29px 7px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 9px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+            box-shadow: 0px 0px 20px 6px #1C2DC5;
+        }
         }
 
 
@@ -1020,6 +1170,43 @@
             letter-spacing: 1px;
             opacity: 0.51;
         }
+        button.button_6_slide {
+            opacity: 0.89;
+            z-index: 5;
+            margin: 220.7% 0 0 35.1%;
+            border: none;
+            position: absolute;
+            padding: 7px 29px 7px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 9px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+            box-shadow: 0px 0px 20px 6px #1C2DC5;
+        }
+        button.button_7_slide {
+            margin: 223.9% 0 0 35.4%;
+            border: none;
+            position: absolute;
+            padding: 10px 103px 10px 29px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;
+            box-shadow: 0 7px 20px -5px black;
+            border-radius: 22px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 12px;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+        }
     }
 @media ( max-width: 391px) {
        article.post {
@@ -1034,7 +1221,43 @@
         z-index: 2;
         text-align: center;
     }
-
+    button.button_7_slide {
+        margin: 226.9% 0 0 36.4%;
+        border: none;
+        position: absolute;
+        padding: 10px 103px 10px 29px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 12px;
+        font-family: "Futura-Normal";
+        letter-spacing: 2px;
+    }
+    button.button_6_slide {
+        opacity: 0.89;
+        z-index: 5;
+        margin: 223.7% 0 0 36.1%;
+        border: none;
+        position: absolute;
+        padding: 7px 29px 7px 29px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 9px;
+        font-family: "Futura-Normal";
+        letter-spacing: 2px;
+        box-shadow: 0px 0px 20px 6px #1C2DC5;
+    }
 }
     @media ( max-width: 369px){
         h1.Alexey {
@@ -1140,6 +1363,43 @@
         font-family: "Futura-Normal";
         letter-spacing: 1px;
         opacity: 0.51;
+    }
+    button.button_7_slide {
+        margin: 238.9% 0 0 33.4%;
+        border: none;
+        position: absolute;
+        padding: 10px 103px 10px 29px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 12px;
+        font-family: "Futura-Normal";
+        letter-spacing: 2px;
+    }
+    button.button_6_slide {
+        opacity: 0.89;
+        z-index: 5;
+        margin: 235.7% 0 0 33.1%;
+        border: none;
+        position: absolute;
+        padding: 7px 29px 7px 29px;
+        text-align: center;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        box-shadow: 0 7px 20px -5px black;
+        border-radius: 22px;
+        cursor: pointer;
+        font-weight: 600;
+        font-size: 9px;
+        font-family: "Futura-Normal";
+        letter-spacing: 2px;
+        box-shadow: 0px 0px 20px 6px #1C2DC5;
     }
 }
 @media ( max-width: 321px) {

@@ -550,3 +550,46 @@ div.dop_slide5{
 	width: 30%;
 	margin: 60% 0 0 30%;
 }
+.button_6_slide {
+	background-image: linear-gradient(to bottom, #C919CF 0%, #6C16BB 50%, #1813AA 100%);
+}
+button.button_6_slide {
+	opacity: 0.89;
+	z-index: 5;
+	margin: 196% 0 0 26.2%;
+	border: none;
+	position: absolute;
+	padding: 7px 29px 7px 29px;
+	text-align: center;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 7px 20px -5px black;
+	border-radius: 22px;
+	cursor: pointer;
+	font-weight: 600;
+	font-size: 13px;
+	font-family: "Futura-Normal";
+	letter-spacing: 2px;
+	box-shadow: 0px 0px 20px 6px #1C2DC5;
+}
+.button_7_slide {
+	background-image: linear-gradient(to bottom, #C919CF 0%, #6C16BB 50%, #1813AA 100%);
+}
+button.button_7_slide {
+	margin: 196.7% 0 0 26.4%;
+	border: none;
+	position: absolute;
+	padding: 10px 122px 10px 29px;
+	text-align: center;
+	transition: 0.5s;
+	background-size: 200% auto;
+	color: white;
+	box-shadow: 0 7px 20px -5px black;
+	border-radius: 22px;
+	cursor: pointer;
+	font-weight: 600;
+	font-size: 12px;
+	font-family: "Futura-Normal";
+	letter-spacing: 2px;
+}
