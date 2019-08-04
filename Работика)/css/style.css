@@ -393,3 +393,40 @@ img.sl{
     width: 86%;
     margin: 0 0 0 9.5%;
 }
+h1.popa{
+	text-align: center;
+    font-size: 20px;
+    color: white;
+    margin: 10% 0 0 2%;
+    font-family: "Futura-Normal";
+	letter-spacing: 2px;
+}
+/*-------------------slide-4-------------*/
+img.web {
+	position: absolute;
+	width: 100%;
+	margin: -34% 0 0 0%;
+}
+div.web_4{
+	position: absolute;
+	width: 100%;
+	margin: 50% 0 0 0%;
+}
+p.text {
+	position: absolute;
+	margin: 24% 0 0 6%;
+	font-size: 70px;
+	color: white;
+	font-family: "Futura-Normal";
+	letter-spacing: 10;
+	opacity: 0.51;
+}
+p.text_1 {
+	position: absolute;
+	margin: 29% 0 0 6%;
+	font-size: 70px;
+	color: white;
+	font-family: "Futura-Normal";
+	letter-spacing: 10;
+	opacity: 0.51;
+}

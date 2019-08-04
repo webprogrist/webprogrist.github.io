@@ -35,7 +35,7 @@ jQuery(function($){
 
 				},
 				{
-					breakpoint: 320,
+					breakpoint: 319,
 					settings: {
 						slidesToShow: 1,
 						slidesToScroll: 1,
