@@ -109,6 +109,32 @@
         margin: 5% 0 0 35%;
         width: 65%;
     }
+    img.music_1 {
+        z-index: 1;
+        position: absolute;
+        width: 49%;
+        margin: 75% 0 0 5%;
+    }
+    img.music_3 {
+        position: absolute;
+        width: 47%;
+        margin: 99% 0 0 46%;
+        z-index: 2;
+    }
+    h1.music {
+        position: absolute;
+        font-size: 65px;
+        z-index: 3;
+        margin: 111% 0 0 42%;
+        font-family: "Eastone";
+        color: white;
+        letter-spacing: 20px;
+    }
+    div.slide5 {
+        position: absolute;
+        width: 100%;
+        margin: 0% 0 0 21%;
+    }
 }
     /*961 - 1368 px*/
     @media ( max-width: 1368px) {
@@ -189,6 +215,7 @@
             letter-spacing: 2px;
             opacity: 0.51;
         }
+
     }
     @media ( max-width: 1081px){
         h1.Alexey {
@@ -260,6 +287,15 @@
             font-family: "Futura-Normal";
             letter-spacing: 3;
             opacity: 0.51;
+        }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 42%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 20px;
         }
     }
 
@@ -383,6 +419,15 @@
             margin: 23% 0 0 35%;
             width: 65%;
         }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 42%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 16px;
+        }
     }
     @media ( max-width: 800px){
         h1.Alexey {
@@ -413,6 +458,15 @@
             position: absolute;
             margin: 23% 0 0 35%;
             width: 65%;
+        }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 40%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 16px;
         }
     }
     /*481 - 768 px*/
@@ -620,6 +674,15 @@
             font-family: "Futura-Normal";
             letter-spacing: 3;
             opacity: 0.51;
+        }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 40%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 11px;
         }
     }
     @media ( max-width: 624px) {
@@ -908,6 +971,25 @@
             width: 100%;
             margin: -27% 0 0 0%;
         }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 34%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 11px;
+        }
+        img.music_1 {
+            z-index: 1;
+            position: absolute;
+            width: 51%;
+            margin: 75% 0 0 5%;
+        }
+        article.post_3 {
+            position: absolute;
+            margin: 192% 0 0 9%;
+        }
         }
 
 
@@ -1022,6 +1104,15 @@
             letter-spacing: 2px;
             z-index: 2;
         }
+        h1.music {
+            position: absolute;
+            font-size: 40px;
+            z-index: 3;
+            margin: 111% 0 0 32%;
+            font-family: "Eastone";
+            color: white;
+            letter-spacing: 8px;
+        }
     }
 @media ( max-width: 348px) {
          h1.Alexey {
@@ -1049,5 +1140,16 @@
         font-family: "Futura-Normal";
         letter-spacing: 1px;
         opacity: 0.51;
+    }
+}
+@media ( max-width: 321px) {
+    h1.music {
+        position: absolute;
+        font-size: 32px;
+        z-index: 3;
+        margin: 111% 0 0 32%;
+        font-family: "Eastone";
+        color: white;
+        letter-spacing: 8px;
     }
 }
