@@ -1,6 +1,6 @@
 body{
 	background-color: black;
-	height: 12683px;
+	height: 0px;
     margin: 0;
 	overflow-x: hidden;
     overflow-y: auto;
@@ -618,4 +618,28 @@ div.slide6{
 }
 img.fon6{
 	width: 100%;
+}
+/*----------slide-7------*/
+div.fon7{
+	z-index: -5;
+	position: absolute;
+	width: 100%;
+	margin: 366.7% 0 0 0%;
+}
+img.fon7{
+	width: 100%;
+}
+p.vk {
+	position: absolute;
+	margin: 384% 0 0 47%;
+}
+p.inst {
+	position: absolute;
+	margin: 399% 0 0 47%;
+}
+img.vk{
+	width: 100px;
+}
+img.inst{
+	width: 100px;
 }
