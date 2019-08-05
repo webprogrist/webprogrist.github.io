@@ -393,9 +393,9 @@ img.sl{
     width: 86%;
     margin: 0 0 0 9.5%;
 }
-h1.popa{
+h1.popa {
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
     color: white;
     margin: 10% 0 0 6%;
     font-family: "Futura-Normal";
@@ -610,4 +610,12 @@ div.sl2{
 img.sl2 {
 	width: 50%;
 	margin-left: 159px;
+}
+div.slide6{
+	position: absolute;
+	width: 100%;
+	margin: 247% 0 0 0;
+}
+img.fon6{
+	width: 100%;
 }

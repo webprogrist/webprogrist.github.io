@@ -1189,6 +1189,19 @@
             position: absolute;
             margin: 220% 0 0 9%;
         }
+        h1.popa {
+            text-align: center;
+            font-size: 16px;
+            color: white;
+            margin: 10% 0 0 6%;
+            font-family: "Futura-Normal";
+            letter-spacing: 2px;
+        }
+        div.slide6 {
+            position: absolute;
+            width: 100%;
+            margin: 283% 0 0 0;
+        }
         }
 
 
@@ -1414,7 +1427,7 @@
         opacity: 0.51;
     }
     button.button_7_slide {
-        margin: 244.9% 0 0 33.4%;
+        margin: 267.9% 0 0 33.4%;
         border: none;
         position: absolute;
         padding: 10px 103px 10px 29px;
@@ -1433,7 +1446,7 @@
     button.button_6_slide {
         opacity: 0.89;
         z-index: 5;
-        margin: 241.7% 0 0 33.1%;
+        margin: 264.7% 0 0 33.1%;
         border: none;
         position: absolute;
         padding: 7px 29px 7px 29px;
