@@ -394,12 +394,12 @@ img.sl{
     margin: 0 0 0 9.5%;
 }
 h1.popa{
-	text-align: center;
-	font-size: 20px;
-	color: white;
-	margin: 10% 0 0 6%;
-	font-family: "Futura-Normal";
-	letter-spacing: 2px;
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    margin: 10% 0 0 6%;
+    font-family: "Futura-Normal";
+    letter-spacing: 2px;
 }
 /*-------------------slide-4-------------*/
 img.web {
