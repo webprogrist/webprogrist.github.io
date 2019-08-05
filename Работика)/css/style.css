@@ -395,10 +395,10 @@ img.sl{
 }
 h1.popa{
 	text-align: center;
-    font-size: 20px;
-    color: white;
-    margin: 10% 0 0 2%;
-    font-family: "Futura-Normal";
+	font-size: 20px;
+	color: white;
+	margin: 10% 0 0 6%;
+	font-family: "Futura-Normal";
 	letter-spacing: 2px;
 }
 /*-------------------slide-4-------------*/
@@ -543,7 +543,7 @@ article.post_3{
 div.slide5 {
 	position: absolute;
 	width: 100%;
-	margin: 0% 0 0 18%;
+	margin: 0% 0 0 0%;
 }
 div.dop_slide5{
 	position: absolute;
@@ -592,4 +592,22 @@ button.button_7_slide {
 	font-size: 12px;
 	font-family: "Futura-Normal";
 	letter-spacing: 2px;
+}
+div.fon6_slide{
+    position: absolute;
+    width: 100%;
+    margin: 250% 0 0 0%;
+}
+img.fon_slide6{
+    position: absolute;
+    width: 100%;
+}
+div.sl2{
+	position: absolute;
+	width: 100%;
+	margin: 312% 0 0 0;
+}
+img.sl2 {
+	width: 50%;
+	margin-left: 159px;
 }
