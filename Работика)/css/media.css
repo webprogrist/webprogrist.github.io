@@ -911,7 +911,7 @@
             color: white;
             font-family: "Comic Sans MS";
             letter-spacing: 11px;
-            margin: 61% 0% 0% 16%;
+            margin: 61% 0% 0% 17%;
         }
         div.slide1_video {
             margin-top: 50%;
@@ -922,7 +922,7 @@
         div.fon_slide1 {
             width: 20%;
             position: absolute;
-            margin: 58% 0 0 39%;
+            margin: 58% 0 0 41%;
         }
         img.bow {
             width: 2.8%;
@@ -944,6 +944,7 @@
             display: none;
         }
         div.slide1_video_mp4{
+            margin-left: 3%;
             display: block;
             margin-top: 50%;
             position: absolute;
@@ -1286,7 +1287,7 @@
             color: white;
             font-family: "Comic Sans MS";
             letter-spacing: 10px;
-            margin: 61% 0% 0% 16%;
+            margin: 61% 0% 0% 17%;
         }
         p.text {
             position: absolute;
@@ -1488,7 +1489,7 @@
              color: white;
              font-family: "Comic Sans MS";
              letter-spacing: 10px;
-             margin: 61% 0% 0% 18%;
+             margin: 61% 0% 0% 19%;
     }
     p.text {
         position: absolute;
