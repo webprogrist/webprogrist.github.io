@@ -1057,18 +1057,18 @@
             font-family: "Comic Sans MS";
             color: white;
             font-size: 37px;
-            margin: 281% 0 0 39%;
+            margin: 281% 0 0 40%;
             letter-spacing: 1.3px;
         }
         article.post {
             text-align: center;
             position: absolute;
-            margin: 307% 0 0 28%;
+            margin: 307% 0 0 29%;
             z-index: 2;
         }
         article.post_1 {
             position: absolute;
-            margin: 369% 0 0 28%;
+            margin: 369% 0 0 29%;
             z-index: 2;
             text-align: center;
         }
@@ -1466,12 +1466,12 @@
         article.post {
             text-align: center;
             position: absolute;
-            margin: 307% 0 0 24%;
+            margin: 307% 0 0 25%;
             z-index: 2;
         }
         article.post_1 {
             position: absolute;
-            margin: 369% 0 0 24%;
+            margin: 369% 0 0 25%;
             z-index: 2;
             text-align: center;
         }
@@ -1481,7 +1481,7 @@
             font-family: "Comic Sans MS";
             color: white;
             font-size: 37px;
-            margin: 281% 0 0 37%;
+            margin: 281% 0 0 38%;
             letter-spacing: 1.3px;
         }
         button.button_5_slide {
