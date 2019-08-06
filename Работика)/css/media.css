@@ -1214,11 +1214,11 @@
             font-size: 9px;
             font-family: "Futura-Normal";
             letter-spacing: 2px;
-            box-shadow: 0px 0px 28px 6px #1C2DC5;
+            box-shadow: 0px 0px 52px 6px #1C2DC5;
         }
         img.sl2 {
             width: 30%;
-            margin-left: 38%;
+            margin-left: 37%;
         }
         div.fon6_slide {
             position: absolute;
@@ -1255,7 +1255,7 @@
             color: white;
             margin: 10% 0 0 6%;
             font-family: "Futura-Normal";
-            letter-spacing: 2px;
+            letter-spacing: 1px;
         }
         div.slide6 {
             position: absolute;
@@ -1400,7 +1400,7 @@
         font-size: 9px;
         font-family: "Futura-Normal";
         letter-spacing: 2px;
-        box-shadow: 0px 0px 20px 6px #1C2DC5;
+        box-shadow: 0px 0px 52px 6px #1C2DC5;
     }
 }
     @media ( max-width: 369px){
@@ -1543,7 +1543,7 @@
         font-size: 9px;
         font-family: "Futura-Normal";
         letter-spacing: 2px;
-        box-shadow: 0px 0px 20px 6px #1C2DC5;
+        box-shadow: 0px 0px 52px 6px #1C2DC5;
     }
 }
 @media ( max-width: 321px) {
@@ -1574,7 +1574,7 @@
         font-size: 9px;
         font-family: "Futura-Normal";
         letter-spacing: 2px;
-        box-shadow: 0px 0px 20px 6px #1C2DC5;
+        box-shadow: 0px 0px 52px 6px #1C2DC5;
     }
     button.button_7_slide {
         margin: 281.9% 0 0 33.4%;

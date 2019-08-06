@@ -390,6 +390,7 @@ div.sl{
     z-index: 20;
 }
 img.sl{
+    border-radius: 8%;
     width: 86%;
     margin: 0 0 0 9.5%;
 }
