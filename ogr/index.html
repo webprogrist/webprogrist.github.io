@@ -1,0 +1,133 @@
+<html>	
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="content-language" content="ru" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+		<title>Блог</title>
+	</head>
+	<body>
+	<div class="slide1_video_mp4">
+		<video class="video_fon_slide1_mp4" autoplay  playsinline muted  loop src="сайтик.mp4"></video>
+	</div>
+<header>
+ <div class="slide1_video">
+	 <video class="video_fon_slide1" autoplay  playsinline muted  loop src="сайтик.webm"></video>
+ </div>
+	<div class="dopol_slide1">
+		<img src="img/Path 77.png" alt="" class="dopol_1">
+	</div>
+	 <div class="burger_menu ">
+		 <a href="#" class="burger_menu_button">
+			 <span class="burger_menu_lines"></span>
+		 </a>
+
+		 <nav class="burger_menu_nav">
+			 <a  href="#section_1" class="burger_menu_link">Блог</a>
+			 <a href="#section2" class="burger_menu_link">Мои работы</a>
+			 <a href="#section_3" class="burger_menu_link">Музыка</a>
+		 </nav>
+		<div class="burger_menu_overlay"></div>
+	 </div>
+	<div class="container_Menu">
+		<ul class="menu">
+			<a class="menu" href="#section_1">
+				<li>Блог</li>
+			</a>
+			<a  class="menu" href="#section2">
+				<li>Мои работы</li>
+			</a>
+			<a class="menu" href="#section_3">
+				<li>Музыка</li>
+			</a>
+		</ul>
+	</div>
+	<div class="fon_slide1">
+		<img src="img/Path 109.png" alt="" class="slidefon_1">
+	</div>
+	<h1 class="Alexey">Алексей</h1>
+	<img src="img/Rectangle 118.png" alt="" class="postic_3">
+	<img src="img/Rectangle 119.png" alt="" class="postic">
+		<article class="post">
+		<div class="post_title">
+			<h1 class="title"><a class="title" href="#">Вот сюда выыыывод</a> </h1>
+		</div>
+
+		<div class="content_post">
+			<p class="content_post">
+				А сюда чуть поменьше
+			</p>
+		</div>
+	</article>
+	<article class="post_1">
+		<div class="post_title">
+			<h1 class="title"><a class="title_1" href="#">Вот сюда выыыывод</a> </h1>
+		</div>
+
+		<div class="content_post_1">
+			<p class="content_post">
+				А сюда чуть поменьше
+			</p>
+		</div>
+	</article>
+	<!--pagination-->
+	<nav class="col_full_pagination">
+<ul class="pagination">
+  <li><a href="#">«</a></li>
+  <li><a href="#">1</a></li>
+  <li><a class="active" href="#">2</a></li>
+  <li><a href="#">3</a></li>
+  <li><a href="#">»</a></li>
+</ul>
+	</nav>
+</header>
+
+
+	<!--STYLES-->
+		<link rel="stylesheet" type="text/css" href="css/style_post.css">
+		<link rel="stylesheet" type="text/css" href="css/slick.css">
+        <link rel="stylesheet" type="text/css" href="css/media.css">
+		<link rel="stylesheet" type="text/css" href="css/animate.css">
+		<link rel="stylesheet" type="text/css" href="css/fonts.css">
+		<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+
+		<!--SCRIPTS-->
+		<script src="js/jquery-3.2.1.min.js"></script>
+		<script src="js/custom.js"></script>
+		<script src="js/script.js"></script>
+		<script src="js/slick.js"></script>
+		<script src="js/slick.min.js"></script>
+
+		  <script type="text/javascript">
+    $(document).ready(function(){
+      $('.your-class').slick({
+        setting-name: setting-value
+      });
+    });
+  </script>
+
+<script>
+	var elem = document.getElementById("pop");
+if (elem.requestFullscreen) {
+  elem.requestFullscreen();
+} else if (elem.mozRequestFullScreen) {
+  elem.mozRequestFullScreen();
+} else if (elem.webkitRequestFullscreen) {
+  elem.webkitRequestFullscreen();
+} else if (elem.msRequestFullscreen) { 
+  elem.msRequestFullscreen();
+}
+</script>
+
+	<script>
+		$(window).scroll(function() {
+			$('.mov').each(function(){
+				var imagePos = $(this).offset().top;
+				var topOfWindow = $(window).scrollTop();
+				if (imagePos < topOfWindow+1000) {
+					$(this).addClass('bounceInUp');
+				}
+			});
+		});
+	</script>
+	</body>
+</html>
