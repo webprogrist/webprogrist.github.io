@@ -25,3 +25,28 @@ img.a{
 	position: absolute;
 	width: 100%
 }
+h1.o{
+	color: white;
+	font-size: 30px;
+	position: absolute;
+	letter-spacing: 4px;
+	margin: 5% 0 0 5%;
+		font-family: "Comic Sans MS";
+}
+h1.zd {
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    margin: 10% 0 0 14%;
+    font-family: "Comic Sans MS";
+}
+div.o {
+    width: 78%;
+    position: absolute;
+    margin: 67% 0 0 12%;
+}
+div.zd {
+    width: 39%;
+    position: absolute;
+    margin: 85% 0 0 20%;
+}

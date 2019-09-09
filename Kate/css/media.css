@@ -1637,7 +1637,23 @@
      
         }
     }
+
 @media ( max-width: 391px) {
+    h1.zd {
+    color: white;
+    font-size: 26px;
+    position: absolute;
+    margin: 10% 0 0 12%;
+    font-family: "Comic Sans MS";
+}
+    h1.o {
+    color: white;
+    font-size: 26px;
+    position: absolute;
+    letter-spacing: 4px;
+    margin: 5% 0 0 7%;
+    font-family: "Comic Sans MS";
+}
     article.post {
         position: absolute;
         margin: 307% 0 0 20%;
@@ -1688,6 +1704,32 @@
     }
 }
     @media ( max-width: 369px){
+        div.o {
+    width: 78%;
+    position: absolute;
+    margin: 67% 0 0 11%;
+}
+div.zd {
+    width: 39%;
+    position: absolute;
+    margin: 82% 0 0 16%;
+}
+h1.zd {
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    margin: 10% 0 0 12%;
+    font-family: "Comic Sans MS";
+    letter-spacing: 1;
+}
+h1.o {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    letter-spacing: 4px;
+    margin: 5% 0 0 7%;
+    font-family: "Comic Sans MS";
+}
         h1.Alexey {
             position: absolute;
             font-size: 42px;
