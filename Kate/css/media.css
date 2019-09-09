@@ -831,6 +831,15 @@
         }
     }
     @media ( max-width: 670px) {
+        div.o{
+            display: none;
+        }
+        div.serdechko{
+            display: none;
+        }
+        div.zd{
+            display: none;
+        }
         h1.Alexey {
             position: absolute;
             font-size: 35px;
@@ -1509,6 +1518,15 @@
         p.inst {
             position: absolute;
             margin: 426% 0 0 69%;
+        }
+              div.o{
+            display: block;
+        }
+        div.serdechko{
+            display: block;
+        }
+        div.zd{
+            display: block;
         }
         }
   
