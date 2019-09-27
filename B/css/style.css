@@ -1,0 +1,52 @@
+body{
+	background-image: url('../img/Rectangle 2.png');
+	height: 0px;
+    margin: 0;
+	overflow-x: hidden;
+    overflow-y: auto;
+       background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+/*---------slide-1--------*/
+header{
+	margin: 0 auto;
+	height: 100vh;
+	background-image: url('../img/Rectangle 2.png');
+	   background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+div.serdechko{
+    width: 50%;
+    position: absolute;
+    margin: 50% 0 0 25%;
+}
+img.a{
+	position: absolute;
+	width: 100%
+}
+h1.o {
+    color: white;
+    font-size: 26px;
+    position: absolute;
+    letter-spacing: 4px;
+    margin: 5% 0 0 5%;
+    font-family: "Comic Sans MS";
+}
+h1.zd {
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    margin: 30% 0 0 14%;
+    font-family: "Comic Sans MS";
+}
+div.o {
+    width: 78%;
+    position: absolute;
+    margin: 67% 0 0 12%;
+}
+div.zd {
+    width: 39%;
+    position: absolute;
+    margin: 85% 0 0 20%;
+}
