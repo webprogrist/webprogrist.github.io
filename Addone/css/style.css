@@ -1,0 +1,59 @@
+body{
+	background: #675B88;
+	height: 2847px;
+    margin: 0;
+	overflow-x: hidden;
+    overflow-y: auto;
+       background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+/*---------slide-1--------*/
+.container_header{
+    width: 100%;
+    height: auto;
+}
+div.white_fon{
+    margin: -5% 0 0 0;
+    position: absolute;
+    width: 100%;
+    height: auto;
+}
+img.white_fon{
+    position: absolute;
+    width: 100%;
+}
+div.head_fon{
+    position: absolute;
+    width: 100%;
+    margin: 11% 0 0 29%;
+    height: 29%;
+}
+img.head_fon{
+    position: absolute;
+    width: 40%;
+    height: 113%;
+}
+div.head_fon1{
+    position: absolute;
+    width: 100%;
+    margin: 14% 0 0 27.5%;
+}
+img.head_fon1{
+    position: absolute;
+    width: 43%;
+}
+div.purple_fon1{
+    position: absolute;
+    width: 100%;
+    margin: 1.78% 0 0 7%;
+}
+img.purple_fon1 {
+    position: absolute;
+    width: 86%;
+}
+div.black_fon{
+    position: absolute;
+    width: 100%;
+    margin: 24% 0 0 0%;
+}
