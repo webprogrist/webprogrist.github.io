@@ -13,5 +13,11 @@ img.fon{
 	opacity: 0.5;
 }
 h1.fon{
-	position: absolute;
+margin: 23% 0 0 25%;
+    position: absolute;
+    font-size: 71px;
+    letter-spacing: 2px;
+    font-family: "Intro";
+    color: white;
+}
 }
