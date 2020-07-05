@@ -35,3 +35,12 @@ img.fon_1{
     width: 34%;
 
 }
+h1.fon_2{
+        text-align: center;
+    margin: 86% 0 0 13%;
+    position: absolute;
+    font-size: 71px;
+    letter-spacing: 2px;
+    font-family: "Intro";
+    color: white;
+}
