@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "Lifehack Basic";
+	src:url("../fonts/DearType - Lifehack Basic.otf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Intro Regular";
+	src:url("../fonts/ofont.ru_Intro.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "BELLABOO";
+	src:url("../fonts/BELLABOO.ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "Intro";
+	src:url("../fonts/ofont.ru_Intro (2).ttf") format("truetype");
+	font-style:normal;
+	font-weight: normal;
+}
