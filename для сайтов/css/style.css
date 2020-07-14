@@ -87,6 +87,7 @@ img.move{
     opacity:0;
 }
 img.l{
+    opacity: 0.85;
     transition-duration: 1s;
 position: absolute;
     margin: -91% 0 0 17%;
