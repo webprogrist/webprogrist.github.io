@@ -1,119 +1,167 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>С днём рождения)</title>
-	<link rel="stylesheet" href="css/style.css">
-	
-    
-    
-</head>
+<html>
+  <head>
+    <meta charset= "utf-8" >
+    <title>С днём рождения</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  <body>
+
+<div class="fon"><img class="fon" src="img/1575937702_9-13.jpg"></img></div>
+<img src="img/207-2071374_fresh-cut-flowers-peonies-fresh-cut-flowers-peonies.png" class="fon2" alt="">
+
+<div class="fon2"> <h1 class="text">С днём рождения<br>
+Моя любмая бабуля</h1> </div>
 <body>
-<header>
-
-<div class="text">
-  <a class="fon">
-  
-  С днём рождения
-</a>
-
-</div>
 
 
-<div class="text_1 u">
-  <h1 class="fon r">
-Желаю <br>
-прекрасного дня<br>
-И самых <br>
-приятных воспоминаний<br>
+</head>
 
-
-</h1>
-</div>
-
-<div class="i">
-  <img onclick="f2()" src="img/44-gift-red-box-png-image.png  " alt="" class="fon_1 kate u">
-
-</div>
-
-<div class=" vou u">
-  <img  src="img/bouquet120-removebg.png  " alt="" class=" kate t">
-
-</div>
-
-<div class="fon">
-	
-<img src="img/clouds-sky-sea-Tokyo-Japan-blue-city-bridge-sunset-653224 — копия.jpg" alt="" class="fon">
-
-
-</div>
-
-
-
-<img  src="img/Group 41.png	" alt="" class="fon_1 l kate move">
-
-
-
-<h1 class="fon_2">
-	
-
-</h1>
-
-
-
-</header>
-<script >
-
-
-</script>
-
-<script >
-	
-function f2() {
-var elements = document.getElementsByClassName("u"),
-    kon = document.getElementsByClassName("hasTooltip");
-for (var i = 0; i < elements.length; i++) {
-    elements[i].classList.add("move");
-}
-for ( var i = 0; i < kon.length; i++ ) {
-  kon[i].classList.add("move");
-}
-}
-
-
-
-
-</script>
-
-</script>
-
-
-
-
-</script>
-
+<body>
 
  
-	 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/jquery.nicescroll.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script>
-      new WOW().init();
+  </script>
+
+
+<script>
+  
+</script>
+
+
+  <script>
+
+
+
+
+
+/*
+while(isSunk == false) {
+
+   quess = prompt('Выбери координату для огня!! От 0 до 6', 0);
+   if(quess < 0 || quess > 6) {
+    alert('Введите верное значение!');
+   } else { 
+    quesses = quesses + 1;
+
+
+   if (quess == loc1 || quess == loc2 || quess == loc3) {
+    hits++;
+    alert('Попали!');}
+else {
+
+    alert('Промах!');
+};
+  if (hits == 3) {
+    isSunk = true;
+    alert('Победа!');
+   } 
+  } 
+ }
+;
+
+var stats = 'Твои попытки'+ ' ' + quesses + ' ' + 'Молодец, боец. Твоя точность составила:' + ' ' + 3/quesses;
+alert(stats);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function insert(num) {
+  document.form.inputy.value += num;
+};
+
+function block(key) {
+ return (key >= '0' && key <= '9') || key == '+' || key == '(' || key == ')' ||  key == '-';
+ 
+};
+
+
+
+
+function back() {
+  var back = document.form.inputy.value;
+  document.form.inputy.value = back.substring(0, back.length - 1);
+};
+
+
+function eucl() {
+  var exp =  document.form.inputy.value;
+  if(exp) {
+     document.form.inputy.value = eval(exp);
+  }
+};
+
+/*function Accumulator(num) {
+    this.value = num;
+
+
+    this.read = function() {
+      this.value +=  +prompt('Сколько добавить увааася', 1);
+    };
+};
+
+let accumulator = new Accumulator(0); // начальное значение 1
+
+
+
+
+accumulator.read(); // прибавит ввод prompt к текущему значению
+accumulator.read(); // прибавит ввод prompt к текущему значению
+
+alert(accumulator.value); // выведет сумму этих значений
+*/
+
+
+
     </script>
-    <script>
-      $(document).ready(
-          function() {
-              $("html").niceScroll({cursorcolor:"#000"});
-          }
-      );
-    </script>
-    <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet"> <!-- 3 KB -->
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script> <!-- 16 KB -->
-</body>
+
+  </body>
+
+
 </html>

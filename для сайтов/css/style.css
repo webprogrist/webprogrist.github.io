@@ -1,143 +1,36 @@
-div.fon{
-	width: 100%;
-	height: 100vh;
-    background: linear-gradient(to top, #C667E8, #FBD1D1);
-
-}
 body{
-	margin: 0px;
-    background: linear-gradient(to top, #C667E8, #FBD1D1);
-
+margin: 0px;
 }
-img.fon {
-	width: 100%;
-	height: 100vh;
-	opacity: 0.68;
-        background: linear-gradient(to top, #C667E8, #FBD1D1);
-
-}
-img.fon.move{
-    width: 100%;
-    height: 100vh;
-    opacity: 0.5;
-        background: linear-gradient(to top, #C667E8, #FBD1D1);
-
-}
-img.f.move{
-    width: 100%;
-    height: 100vh;
-    display: none;
-        background: linear-gradient(to top, #C667E8, #FBD1D1);
-
-}
-img.o{
-        margin: -225% 0 0 0;
-
-display: block;
-    width: 100%;
-    height: 100vh;
-    opacity: 0.5;
-    transition-duration: 1s;
-        background: linear-gradient(to top, #C667E8, #FBD1D1);
-
-}
-a.fon{
-text-align: center;
+div.fon{
     position: absolute;
-    font-size: 61px;
-    letter-spacing: 2px;
-    color: white;
-        font-family: "Intro";
-
+    width: 100%;
+    height: 100%;
 }
-h1.r{
-z-index: 1;
+img.fon{
+    width: 100%;
+    height: 100%;
+}
+img.fon2{
+    width: 100%;
+    height: 50%;
+    bottom: 0px;
+    position: absolute;
+}
+h1.text{
+    position: absolute;
+    color: white;
+    font-size: 2.2vh;
+    font-family: "Intro";
+    width: 50%;
+    height: 5%;
     text-align: center;
-    /* margin: -140% 0 0 18%; */
-    position: absolute;
-    font-size: 54px;
-    letter-spacing: 2px;
-    font-family: "Intro";
-    color: white;
-    opacity: 1;
+    left: 0;
+    right: 0;
+    margin: 25% auto;
 }
-.fon_1{
-position: absolute;
+div.fon2{
+    position: absolute;
     width: 100%;
-}
-h1.move{
-    opacity: 1;
-    transition-duration: 1s;
-}
-a.move{
-    opacity: 0;
-    transition-duration: 1s;
-}
-h1.fon_2{
-        text-align: center;
-    margin: 86% 0 0 13%;
-    position: absolute;
-    font-size: 71px;
-    letter-spacing: 2px;
-    font-family: "Intro";
-    color: white;
-}
-img.move{
-    opacity:0;
-}
-img.l{
-    opacity: 0.85;
-    transition-duration: 1s;
-position: absolute;
-    margin: -91% 0 0 17%;
-    width: 65%
-}
-img.fon_1.kate.move{
-    display: none;
-}
-div.text{
-    position: absolute;
-    width: 66%;
-    z-index: 1;
-    margin: 39% 0 0 25%;
+    height: 70%;
 
-}
-div.text_1{
- position: absolute;
-    margin: 142% 0 0 15%;
-    z-index: 1;
-    width: 78%;
-}
-div.i{
-    position: absolute;
-    margin: 54% 0 0 19%;
-    width: 66%;
-    z-index: 11;
-
-}
-div.text_1.u.move{
-    opacity: 0;
-    transition-duration: 1s;
-}
-div.vou{
-    opacity: 0;
-position: absolute;
-    margin: 55.3% 0 0 0%;
-    width: 100%;
-    z-index: 1;
-
-}
-div.vou.u.move{
-    opacity: 1;
-position: absolute;
-    display: block;
-    width: 100%;
-    margin: 55.3% 0 0 0%;
-    /* bottom: 0; */
-    transition-duration: 2s;
-}
-.t{
-    position: absolute;
-    width: 100%;
-}
 }
