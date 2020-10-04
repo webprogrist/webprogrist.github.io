@@ -1,0 +1,149 @@
+body{
+margin: 0px;
+background-color: #C667E8;
+}
+@media (min-width: 428px) {
+div.fon3{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+img.foni{
+
+    width: 100%;
+    opacity: 0.67;
+    height: 100%;
+}
+img.fon{
+    display: none;
+    width: 100%;
+    opacity: 0.67;
+    height: 100%;
+}
+img.fon23{
+   width: 100%;
+    height: 67%;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+img.fon2{
+    display: none;
+   width: 100%;
+    height: 60%;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+h1.text{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: "Intro";
+    height: 5%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 7%;
+    /* bottom: 0; */
+    letter-spacing: 2px;
+    margin: 0% auto;
+}
+h1.text2{
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    font-family: "Intro";
+    height: 5%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 17%;
+    /* bottom: 0; */
+    letter-spacing: 2px;
+    margin: 0% auto;
+}
+div.fon2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+div.fon2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+}
+@media (max-width: 427px) {
+div.fon{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+img.fon{
+    width: 100%;
+    opacity: 0.67;
+    height: 100%;
+}
+img.fon2{
+   width: 100%;
+    height: 60%;
+    margin: 0 auto;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+}
+h1.text{
+    position: absolute;
+    color: white;
+    font-size: 30px;
+    font-family: "Intro";
+    height: 5%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 7%;
+    /* bottom: 0; */
+    letter-spacing: 2px;
+    margin: 0% auto;
+}
+h1.text2{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: "Intro";
+    height: 5%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    top: 17%;
+    /* bottom: 0; */
+    letter-spacing: 2px;
+    margin: 0% auto;
+}
+div.fon2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+div.fon2{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+.fon3{
+    display: none;
+}
+.fon23{
+    display: none;
+}
+}
