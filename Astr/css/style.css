@@ -1,13 +1,28 @@
 body{
 margin: 0px;
-height: 100vh;
+height: 129vh;
 width: 100%;
 background: linear-gradient(to top, #C6934E, #081031 );
+}
+button.sun_button{
+    margin-top: 50%;
 }
 div.sun{
     width: 100%;
     height: 100%;
     position: absolute;
+}
+button.sun_button {
+    font-size: 17px;
+    margin: 0 auto;
+    margin-top: 6%;
+    display: block;
+    background-color: Transparent;
+    border-radius: 14px;
+    letter-spacing: 0.8px;
+    border: 1px solid #FFF;
+    color: white;
+    padding: 5px 18px 5px 18px;
 }
 .qr{
 background: white;
@@ -130,14 +145,45 @@ h1.qr_1 {
     color: white;
     font-family: "Light";
 }
+button.sun_button {
+    font-size: 16px;
+    margin: 8% 0 0 32%;
+    background-color: Transparent;
+    border-radius: 14px;
+    letter-spacing: 0.8px;
+    border: 1px solid #FFF;
+    color: white;
+    padding: 5px 18px 5px 18px;
+}
+body {
+    margin: 0px;
+    height: 121vh;
+    width: 100%;
+    background: linear-gradient(to top, #C6934E, #081031 );
+}   
+h1.qr_3 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    width: 84%;
+    margin: 7% 0 0 42%;
+    color: white;
+    font-family: "Light";
+}
 }
 @media (max-width: 347px) {
+ 
 .qr1 {
     background: white;
     height: 248px;
     width: 3px;
     position: absolute;
     margin: 17% 0 0 33%;
+}
+body {
+    margin: 0px;
+    height: 110vh;
+    width: 100%;
+    background: linear-gradient(to top, #C6934E, #081031 );
 }
 h1.qr_1 {
     letter-spacing: 0.8px;
@@ -149,12 +195,21 @@ h1.qr_1 {
 h1.qr_3 {
     letter-spacing: 0.8px;
     font-size: 15px;
-    width: 84%;
+    width: 77%;
     margin: 7% 0 0 42%;
     color: white;
     font-family: "Light";
 }
-
+button.sun_button {
+    font-size: 15px;
+    margin: 8% 0 0 31%;
+    background-color: Transparent;
+    border-radius: 14px;
+    letter-spacing: 0.8px;
+    border: 1px solid #FFF;
+    color: white;
+    padding: 5px 18px 5px 18px;
+}
 .qr {
     background: white;
     width: 3px;
