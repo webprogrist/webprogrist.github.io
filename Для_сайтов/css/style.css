@@ -1,0 +1,166 @@
+body{
+margin: 0px;
+height: 100vh;
+width: 100%;
+background: linear-gradient(to top, #C6934E, #081031 );
+}
+div.sun{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.qr{
+background: white;
+width: 3px;
+height: 186px;
+position: absolute;
+margin: 5% 0 0 8%;
+}
+h1.qr_ {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: -326% 0 0 200%;
+    color: white;
+    font-family: "Light";
+}
+h1.qr_1 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: -1008% 0 0 104%;
+    color: white;
+    font-family: "Light";
+}
+h1.qr_2 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: -23% 0 0 36%;
+    color: white;
+    width: 115%;
+    font-family: "Light";
+}
+h1.qr_3 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    width: 84%;
+    margin: 11% 0 0 42%;
+    color: white;
+    font-family: "Light";
+}
+h1.qr_4 {
+    letter-spacing: 0.8px;
+    font-size: 12px;
+    margin: 18% 0 0 27%;
+    color: white;
+    font-family: "Light";
+}
+h1.qr_5 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: 15% 0 0 -23%;
+    color: white;
+    width: 231%;
+    font-family: "Light";
+}
+.qr1{
+background: white;
+height: 304px;
+width: 3px;
+position: absolute;
+margin: 17% 0 0 33%;
+}
+.qr2{
+  background: white;  
+height: 3px;
+width: 120px;
+margin: 51% 0 0 42%;
+position: absolute;
+
+}
+.qr3{
+  background: white;  
+height: 3px;
+width: 158px;
+position: absolute;
+margin: 70% 0 0 40%;
+}
+.qr4{
+  background: white;  
+height: 3px;
+width: 71px;
+position: absolute;
+margin: 133% 0 0 57%;
+}
+.qr5{
+   background: white; 
+height:3px; 
+width: 68px;
+position: absolute;
+margin: 141.6% 0 0 45%;
+}
+img.sun{
+    width: 93%;
+    margin-top: 30%;
+}
+@media (max-width: 385px) {
+.qr1 {
+    background: white;
+    height: 273px;
+    width: 3px;
+    position:absolute;;
+    margin: 17% 0 0 33%;
+}
+h1.qr_4 {
+    letter-spacing: 0.8px;
+    font-size: 12px;
+    margin: 11% 0 0 27%;
+    color: white;
+    font-family: "Light";
+}
+.qr {
+    background: white;
+    width: 3px;
+    height: 165px;
+    position: absolute;
+    margin: 5% 0 0 8%;
+}
+h1.qr_1 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: -808% 0 0 104%;
+    color: white;
+    font-family: "Light";
+}
+}
+@media (max-width: 347px) {
+.qr1 {
+    background: white;
+    height: 248px;
+    width: 3px;
+    position: absolute;
+    margin: 17% 0 0 33%;
+}
+h1.qr_1 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    margin: -800% 0 0 104%;
+    color: white;
+    font-family: "Light";
+}
+h1.qr_3 {
+    letter-spacing: 0.8px;
+    font-size: 15px;
+    width: 84%;
+    margin: 7% 0 0 42%;
+    color: white;
+    font-family: "Light";
+}
+
+.qr {
+    background: white;
+    width: 3px;
+    height: 145px;
+    position: absolute;
+    margin: 5% 0 0 8%;
+}
+
+}
